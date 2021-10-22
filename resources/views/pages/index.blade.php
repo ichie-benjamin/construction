@@ -72,17 +72,18 @@
                         <!-- Content Column -->
                         <div class="content-column col-lg-7 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="title">We Are Experience Company</div>
-                                <h1>Prefection is always <br> under construction</h1>
-                                <div class="text">We produce positive results from ever-growing Industrial & <br> manufacturing, we have established a corporate mandate to maintain.</div>
+                                <div class="title">We Are Experienced </div>
+                                <h1>Always delivers  <br> beyond client expectation</h1>
+                                <div class="text">We produce positive results from ever-growing Industrial & <br>
+                                    manufacturing, we have established a corporate mandate to maintain.</div>
                                 <div class="clearfix">
-                                    <div class="btns-box">
-                                        <a class="btn-style-three theme-btn" href="about.html"><span class="txt">Read More</span></a>
-                                    </div>
-                                    <div class="play-box">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-                                        See Our Achivity
-                                    </div>
+{{--                                    <div class="btns-box">--}}
+{{--                                        <a class="btn-style-three theme-btn" href="about.html"><span class="txt">Read More</span></a>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="play-box">--}}
+{{--                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>--}}
+{{--                                        See Our Achivity--}}
+{{--                                    </div>--}}
                                 </div>
                             </div>
                         </div>
@@ -107,17 +108,18 @@
                         <!-- Content Column -->
                         <div class="content-column col-lg-7 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="title">We Are Experience Company</div>
-                                <h1>Prefection is always <br> under construction</h1>
-                                <div class="text">We produce positive results from ever-growing Industrial & <br> manufacturing, we have established a corporate mandate to maintain.</div>
+                                <div class="title">{{ env('APP_NAME') }}</div>
+                                <h1>The no.1 <br> </h1>
+                                <div class="text">A worldwide reference in the industry of infrastructure development,  <br/>
+                                    both civil and industrial engineering projects</div>
                                 <div class="clearfix">
-                                    <div class="btns-box">
-                                        <a class="btn-style-three theme-btn" href="about.html"><span class="txt">Read More</span></a>
-                                    </div>
-                                    <div class="play-box">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-                                        See Our Achivity
-                                    </div>
+{{--                                    <div class="btns-box">--}}
+{{--                                        <a class="btn-style-three theme-btn" href="about.html"><span class="txt">Read More</span></a>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="play-box">--}}
+{{--                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>--}}
+{{--                                        See Our Achivity--}}
+{{--                                    </div>--}}
                                 </div>
                             </div>
                         </div>
@@ -142,18 +144,11 @@
                         <!-- Content Column -->
                         <div class="content-column col-lg-7 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="title">We Are Experience Company</div>
-                                <h1>Prefection is always <br> under construction</h1>
-                                <div class="text">We produce positive results from ever-growing Industrial & <br> manufacturing, we have established a corporate mandate to maintain.</div>
-                                <div class="clearfix">
-                                    <div class="btns-box">
-                                        <a class="btn-style-three theme-btn" href="about.html"><span class="txt">Read More</span></a>
-                                    </div>
-                                    <div class="play-box">
-                                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-button"><span class="flaticon-play-arrow"><i class="ripple"></i></span></a>
-                                        See Our Achivity
-                                    </div>
-                                </div>
+                                <div class="title">{{ env('ceo') }}</div>
+                                <h1>With over {{ env('exp') }} <br> </h1>
+                                <div class="text">President of the National Institute for Agricultural Reform and Development (IRYDA) of the Ministry of Agriculture. <br/>
+                                    In 1983 he returned to private enterprise, becoming the Chief Executive Officer Ryan Albert construction company Ltd.</div>
+
                             </div>
                         </div>
 
