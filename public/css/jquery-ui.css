@@ -49,7 +49,7 @@
 }
 
 .ui-front {
-	z-index: 100;
+	z-index: 9999;
 }
 
 
@@ -127,7 +127,7 @@
 }
 .ui-menu .ui-menu-item-wrapper {
 	position: relative;
-	padding:8px 1em 8px 15px;
+	padding: 3px 1em 3px .4em;
 }
 .ui-menu .ui-menu-divider {
 	margin: 5px 0;
@@ -979,8 +979,8 @@ a.ui-button:focus {
 a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
-	border: 1px solid #003eff;
-	background: #007fff;
+	border: 1px solid #eb5210;
+	background: #eb5210;
 	font-weight: normal;
 	color: #ffffff;
 }

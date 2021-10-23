@@ -30,6 +30,7 @@ Route::get('/', [PagesController::class, 'index'])->name('home');
 Route::get('/about', [PagesController::class, 'about'])->name('about');
 Route::get('/contact', [PagesController::class, 'contact'])->name('contact');
 Route::get('/projects', [PagesController::class, 'projects'])->name('projects');
+Route::get('/services', [PagesController::class, 'services'])->name('services');
 Route::get('/ceo', [PagesController::class, 'ceo'])->name('ceo');
 
 @include('admin.php');
