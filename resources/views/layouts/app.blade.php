@@ -87,8 +87,8 @@
                                     <li><a href="#{{ route('home') }}">Home </a></li>
                                     <li><a href="{{ route('about') }}">About </a></li>
                                     <li><a href="#{{ route('services') }}">Services </a></li>
-                                    <li><a href="#{{ route('services') }}">Projects </a></li>
-                                    <li><a href="#{{ route('contact') }}">Contact Us </a></li>
+                                    <li><a href="{{ route('projects') }}">Projects </a></li>
+                                    <li><a href="{{ route('contact') }}">Contact Us </a></li>
 
                                 </ul>
                             </div>
@@ -132,8 +132,8 @@
                                     <li><a href="#{{ route('home') }}">Home </a></li>
                                     <li><a href="{{ route('about') }}">About </a></li>
                                     <li><a href="#{{ route('services') }}">Services </a></li>
-                                    <li><a href="#{{ route('services') }}">Projects </a></li>
-                                    <li><a href="#{{ route('contact') }}">Contact Us </a></li>
+                                    <li><a href="{{ route('projects') }}">Projects </a></li>
+                                    <li><a href="{{ route('contact') }}">Contact Us </a></li>
 
                                 </ul>
                             </div>
@@ -289,6 +289,8 @@
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/jquery.fancybox.js"></script>
 <script src="/js/mixitup.js"></script>
+<script src="/js/isotope.js"></script>
+
 <script src="/js/owl.js"></script>
 <script src="/js/wow.js"></script>
 <script src="/js/appear.js"></script>

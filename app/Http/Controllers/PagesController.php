@@ -22,6 +22,7 @@ class PagesController extends Controller
         return view('pages.contact');
     }
     public function projects(){
-        return view('pages.projects');
+        $projects = $this->projectImgs();
+        return view('pages.projects', compact('projects'));
     }
 }
