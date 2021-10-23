@@ -129,7 +129,12 @@
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li><a href="{{ route('home') }}">Home </a></li>
+                                    <li><a href="#{{ route('home') }}">Home </a></li>
+                                    <li><a href="#{{ route('about') }}">About </a></li>
+                                    <li><a href="#{{ route('services') }}">Services </a></li>
+                                    <li><a href="#{{ route('services') }}">Projects </a></li>
+                                    <li><a href="#{{ route('contact') }}">Contact Us </a></li>
+
                                 </ul>
                             </div>
                         </nav>
@@ -175,7 +180,7 @@
                             <div class="footer-column col-md-7 col-sm-6 col-xs-12">
                                 <div class="footer-widget logo-widget">
                                     <div class="logo">
-                                        <a href="{{ route('home') }}"><img src="images/footer-logo.png" alt="" /></a>
+                                        <a href="{{ route('home') }}"><img src="images/logo.png" alt="" /></a>
                                     </div>
                                     <div class="text">
                                         {{ env('APP_NAME') }} offers specialist architecture and residential construction services. Our company specializes in design and delivery of stylish and contemporary luxury homes, predominantly in exclusive areas of Greater
