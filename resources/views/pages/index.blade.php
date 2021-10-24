@@ -231,7 +231,7 @@
                         </div>
                         <div class="text">With over {{ env('exp') }} years of experience, we have a versatile team of highly skilled tradesmen and professionals, including: Civil Engineers, Architects, Gas Engineers, Electricians, Plumbers, Painters and Decorators.
                             Our head office is based in {{ env('address') }}, providing construction services for clients in and around
-                            {{ env('country') }}.</div>
+                            {{ env('country') }}, and all part of the world.</div>
                         <a href="#" class="theme-btn btn-style-one">View all services</a>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                             <div class="service-block col-md-6 col-sm-6 col-xs-12">
                                 <div class="inner-box">
                                     <div class="image">
-                                        <a href="{{ route('services') }}"><img src="images/resource/service-2.jpg" alt="" /></a>
+                                        <a href="{{ route('services') }}"><img src="images/man3.png" alt="" /></a>
                                     </div>
                                     <div class="lower-box">
                                         <h3><a href="">Construction</a></h3>
@@ -571,14 +571,14 @@
 
                                 We are regularly audited by independent experts to ensure we hit the highest technical, and health & safety standards.
                                 We make a computer 3D model and simulation of the build. This help us to solve design issues before we even start on site.
-                                It is also useful to sequence every {{ env('country') }} basement conversion project and civil engineering project perfectly.
+                                It is also useful to sequence every  basement conversion project and civil engineering project perfectly.
 
                                 {{ env('APP_NAME') }} has won many construction awards like Construction News ‘Contractor of the year’, the CN “Digital Contractor of the Year” and Ground Engineering Contractor of the Year.
 
                             </p>
                             <p>Our construction company specialist waterproofing in-house team will design and install it all wrapped up in a 10-year insurance-backed guarantee.
 
-                                We deliver quality with a passion to every {{ env('country') }} basement conversion, building construction, and civil engineering project.
+                                We deliver quality with a passion to world-wide basement conversion, building construction, and civil engineering project.
 
                             </p>
                             <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.

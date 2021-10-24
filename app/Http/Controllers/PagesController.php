@@ -11,6 +11,13 @@ class PagesController extends Controller
         $projects = $this->projectImgs();
         return view('pages.index',compact('services','projects'));
     }
+
+    public function service()
+    {
+        $services = $this->services();
+        return view('pages.services',compact('services'));
+
+    }
     public function ceo(){
         return view('pages.ceo');
     }

@@ -84,9 +84,9 @@
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li><a href="#{{ route('home') }}">Home </a></li>
+                                    <li><a href="{{ route('home') }}">Home </a></li>
                                     <li><a href="{{ route('about') }}">About </a></li>
-                                    <li><a href="#{{ route('services') }}">Services </a></li>
+                                    <li><a href="{{ route('services') }}">Services </a></li>
                                     <li><a href="{{ route('projects') }}">Projects </a></li>
                                     <li><a href="{{ route('contact') }}">Contact Us </a></li>
 
@@ -129,9 +129,9 @@
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li><a href="#{{ route('home') }}">Home </a></li>
+                                    <li><a href="{{ route('home') }}">Home </a></li>
                                     <li><a href="{{ route('about') }}">About </a></li>
-                                    <li><a href="#{{ route('services') }}">Services </a></li>
+                                    <li><a href="{{ route('services') }}">Services </a></li>
                                     <li><a href="{{ route('projects') }}">Projects </a></li>
                                     <li><a href="{{ route('contact') }}">Contact Us </a></li>
 

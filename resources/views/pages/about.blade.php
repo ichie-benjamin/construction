@@ -30,20 +30,20 @@
                             construction and asset management
                             services delivering single-source solutions for some of the world's most prestigious public and private organisations.</div>
                         <div class="text text-justify">
-                            <p> {{ env('APP_NAME') }} has been building {{ env('country') }} basement conversions and civil engineering projects for {{ env('exp') }} years.
+                            <p> {{ env('APP_NAME') }} has been building  basement conversions and civil engineering projects for {{ env('exp') }} years.
                                 {{ env('ceo') }} has an amazing team of in-house architects, engineers, and construction managers.
                                 We have the best team to deliver your basement conversions.
 
                                 We are regularly audited by independent experts to ensure we hit the highest technical, and health & safety standards.
                                 We make a computer 3D model and simulation of the build. This help us to solve design issues before we even start on site.
-                                It is also useful to sequence every {{ env('country') }} basement conversion project and civil engineering project perfectly.
+                                It is also useful to sequence every basement conversion project and civil engineering project perfectly.
 
                                 {{ env('APP_NAME') }} has won many construction awards like Construction News ‘Contractor of the year’, the CN “Digital Contractor of the Year” and Ground Engineering Contractor of the Year.
 
                             </p>
                             <p>Our construction company specialist waterproofing in-house team will design and install it all wrapped up in a 10-year insurance-backed guarantee.
 
-                                We deliver quality with a passion to every {{ env('country') }} basement conversion, building construction, and civil engineering project.
+                                We deliver quality with a passion to every basement conversion, building construction, and civil engineering project world-wide
 
                             </p>
                             <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.

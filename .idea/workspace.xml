@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa95e79-fa15-42c1-8148-e21acaf6e0c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/services.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/projects.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/projects.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,15 +158,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/resources/views/pages" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/resources/views/admin" />
       <recent name="$PROJECT_DIR$/public/admin" />
       <recent name="$PROJECT_DIR$/resources/views/admin/layouts/partials" />
@@ -221,7 +222,7 @@
       <workItem from="1634834759875" duration="15221000" />
       <workItem from="1634908380102" duration="1188000" />
       <workItem from="1634933821617" duration="15917000" />
-      <workItem from="1635017280638" duration="7100000" />
+      <workItem from="1635017280638" duration="10585000" />
     </task>
     <servers />
   </component>
