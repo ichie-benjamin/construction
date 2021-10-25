@@ -227,7 +227,7 @@
                         <div class="sec-title">
                             <h2>Who We Are</h2>
                         </div>
-                        <div class="styled-text">Regal Construction Services is an established construction company.
+                        <div class="styled-text">{{ env('APP_NAME') }} is an established construction company.
                         </div>
                         <div class="text">With over {{ env('exp') }} years of experience, we have a versatile team of highly skilled tradesmen and professionals, including: Civil Engineers, Architects, Gas Engineers, Electricians, Plumbers, Painters and Decorators.
                             Our head office is based in {{ env('address') }}, providing construction services for clients in and around
