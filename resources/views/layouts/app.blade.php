@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
+{{--    <meta charset="utf-8">--}}
     <title>{{ env('APP_NAME') }}</title>
 
     <!-- Stylesheets -->
@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&amp;family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet">
 
     <!--Color Switcher Mockup-->
-    <link href="css/color-switcher-design.css" rel="stylesheet">
+{{--    <link href="css/color-switcher-design.css" rel="stylesheet">--}}
 
     <!-- Color Themes -->
     <link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
@@ -28,9 +28,68 @@
     <!--[if lt IE 9]><script src="/https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="/js/respond.js"></script><![endif]-->
 
+
+
+    <!-- Google Translate Element begin -->
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                // includedLanguages: 'es',
+                includedLanguages: 'en,lt,ru,it,es,de,lv,bn,lux,ms,ko,ja,fi,ro,pl,th,zh,cv',
+                // includedLanguages: 'lithuanian,luxembourg,italian,spanish,russian',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+    </script>
+{{--    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>--}}
+
+    <script>
+        $('document').ready(function () {
+            $('#google_translate_element').on("click", function () {
+
+                // // Change font family and color
+                // $("iframe").contents().find(".goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div") //, .goog-te-menu2 *
+                //     .css({
+                //         'color': '#544F4B',
+                //         'background-color': '#e3e3ff',
+                //         'font-family': '"Open Sans",Helvetica,Arial,sans-serif'
+                //     });
+                //
+                // // Change hover effects  #e3e3ff = white
+                // $("iframe").contents().find(".goog-te-menu2-item div").hover(function () {
+                //     $(this).css('background-color', '#17548d').find('span.text').css('color', '#e3e3ff');
+                // }, function () {
+                //     $(this).css('background-color', '#e3e3ff').find('span.text').css('color', '#544F4B');
+                // });
+                //
+                // // Change Google's default blue border
+                // $("iframe").contents().find('.goog-te-menu2').css('border', '1px solid #17548d');
+                //
+                // $("iframe").contents().find('.goog-te-menu2').css('background-color', '#e3e3ff');
+                //
+                // // Change the iframe's box shadow
+                // $(".goog-te-menu-frame").css({
+                //     '-moz-box-shadow': '0 3px 8px 2px #666666',
+                //     '-webkit-box-shadow': '0 3px 8px 2px #666',
+                //     'box-shadow': '0 3px 8px 2px #666'
+                // });
+                //
+            });
+        });
+    </script>
+
+    <style>
+        .goog-te-banner-frame {
+            display: none!important;
+        }
+    </style>
+
 </head>
 
-<body>
+<body style="top: 0!important;">
 
 <div class="page-wrapper">
 
@@ -118,6 +177,11 @@
                                     <li><a href="{{ route('ceo') }}">Our CEO</a></li>
                                     <li><a href="{{ route('projects') }}">Our Projects</a></li>
                                     <li><a href="{{ route('contact') }}">Contact us</a></li>
+                                    <li class="">
+                                        <a href="#" class="nav-link">
+                                            <div id="google_translate_element"></div>
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </nav>
@@ -162,7 +226,7 @@
                         </div>
 
                         <div class="btn-box">
-                            <a href="/#contact" class="theme-btn btn-style-one"><span class="txt">Get A Quote</span></a>
+                            <a href="{{ route('contact') }}" class="theme-btn btn-style-one"><span class="txt">Get A Quote</span></a>
                         </div>
 
                     </div>
@@ -331,7 +395,7 @@
 <div class="search-popup">
     <button class="close-search style-two"><span class="flaticon-multiply"></span></button>
     <button class="close-search"><span class="flaticon-multiply"></span></button>
-    <form method="post" action="http://themerange.net/html/kanstr/blog.html">
+    <form method="post" action="#">
         <div class="form-group">
             <input type="search" name="search-field" value="" placeholder="Search Here" required="">
             <button type="submit"><i class="fa fa-search"></i></button>
@@ -360,6 +424,41 @@
 <script src="/js/jquery-ui.js"></script>
 <script src="/js/script.js"></script>
 <script src="/js/color-settings.js"></script>
+
+
+<script>
+    // $('document').ready(function () {
+    //     $('#google_translate_element').on("click", function () {
+    //
+    //         // Change font family and color
+    //         $("iframe").contents().find(".goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div") //, .goog-te-menu2 *
+    //             .css({
+    //                 'color': '#544F4B',
+    //                 'background-color': '#e3e3ff',
+    //                 'font-family': '"Open Sans",Helvetica,Arial,sans-serif'
+    //             });
+    //
+    //         // Change hover effects  #e3e3ff = white
+    //         $("iframe").contents().find(".goog-te-menu2-item div").hover(function () {
+    //             $(this).css('background-color', '#17548d').find('span.text').css('color', '#e3e3ff');
+    //         }, function () {
+    //             $(this).css('background-color', '#e3e3ff').find('span.text').css('color', '#544F4B');
+    //         });
+    //
+    //         // Change Google's default blue border
+    //         $("iframe").contents().find('.goog-te-menu2').css('border', '1px solid #17548d');
+    //
+    //         $("iframe").contents().find('.goog-te-menu2').css('background-color', '#e3e3ff');
+    //
+    //         // Change the iframe's box shadow
+    //         $(".goog-te-menu-frame").css({
+    //             '-moz-box-shadow': '0 3px 8px 2px #666666',
+    //             '-webkit-box-shadow': '0 3px 8px 2px #666',
+    //             'box-shadow': '0 3px 8px 2px #666'
+    //         });
+    //     });
+    // });
+</script>
 
 </body>
 </html>

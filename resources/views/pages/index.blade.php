@@ -318,7 +318,7 @@
                 <div class="image-column col-lg-5 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="image">
-                            <div class="dark-layer"></div>
+                            <div class="dark-laye"></div>
                             <img src="/images/man15.png" alt="">
                         </div>
                         <div class="pattern-layer" style="background-image:url(images/background/pattern-7.png)"></div>
