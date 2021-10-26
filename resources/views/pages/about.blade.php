@@ -25,9 +25,20 @@
                         <!-- Sec Title -->
                         <div class="sec-title">
                             <div class="title"><span class="separator"></span>About Company</div>
-                            <h2>We are leading for industrial <br> market very successfully</h2>
+                            <h2>A construction company that understands the importance & value of Client satisfaction</h2>
                             <div class="text">
-                                Manufactoriuring industry became a key sector of production and labour and North American countries during the Industrial Revolution, upsetting industry sector .
+                                Our company prides itself on customer satisfaction: working hard to ensure all customers’ needs and expectations are fulfilled.
+                            </div>
+                            <div class="text">
+                                We tailor services to individual needs, such as: scheduling and carrying out work at hours which suit the Client; accommodating tight
+                                deadlines and altering initial arrangements or job specifications.
+                                Furthermore, we strive to provide competitive rates without sacrificing quality.
+                            </div>
+                            <div class="text">
+                                80% of our new clients are referred to us by our existing Clients. </div>
+
+                            <div class="text">
+                                We ensure a job is done on time and on budget.
                             </div>
                             <!--                            <div class="text">Manufactoriuring industry became a key sector of production and labour and <br> North American countries during the Industrial Revolution.</div>-->
                         </div>
@@ -40,7 +51,7 @@
                         <div class="author-box">
                             <div class="box-inner">
                                 <div class="author-image">
-                                    <img src="images/man1.png" alt="">
+                                    <img src="images/man3.png" alt="">
                                 </div>
                                 <div class="signature">
                                     <img src="images/icons/signature-1.png" alt="">
@@ -136,14 +147,13 @@
                     <div class="inner-column">
                         <!-- Sec Title -->
                         <div class="sec-title">
-                            <div class="title"><span class="separator"></span>What Our Goal</div>
+                            <div class="title"><span class="separator"></span>Our Goal</div>
                             <h2>Why {{ env("ceo") }} is the best in the <br> construction industry</h2>
                             <div class="text">
-                                He began his professional career in 1981 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
-                                turning to business activities in the public sector. Between 1986 and 1992 he held various positions in central and local government,
-                                first as Director of Sanitation and the Environment for the Madrid City Council, and subsequently as Assistant Director-General at the
-                                Ministry of Industry and Energy, Director-General of Transport Infrastructures at the Ministry of Transport, and President of the National
-                                Institute for Agricultural Reform and Development (IRYDA) of the Ministry of Agriculture. In 1983 he returned to private enterprise,
+                                He began his professional career in 1999 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
+                                turning to business activities in the public sector. Between 1991 and 2005 he held various positions in central and local government,
+                                , first as Assistant Director-General at the
+                                Ministry of Industry and Energy and Director-General of Transport Infrastructures at the Ministry of Transport.. In 2006 he returned to private enterprise,
                                 becoming the Chief Executive Officer {{ env('APP_NAME') }}
                             </div>
                         </div>
@@ -250,7 +260,7 @@
                         <div class="inner-column">
                             <div class="image">
                                 <div class="pattern-layer" style="background-image:url(images/background/pattern-2.png)"></div>
-                                <img src="/images/man1.png" alt="" />
+                                <img src="/images/man3.png" alt="" />
                                 <div class="text"> Awards winning Contracts</div>
                             </div>
                         </div>

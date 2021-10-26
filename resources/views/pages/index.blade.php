@@ -63,9 +63,9 @@
                         <!-- Image Column -->
                         <div class="image-column col-lg-5 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="image">
-                                    <img src="images/man1.png" alt="" />
-                                </div>
+{{--                                <div class="image">--}}
+{{--                                    <img src="images/man1.png" alt="" />--}}
+{{--                                </div>--}}
                             </div>
                         </div>
 
@@ -99,9 +99,9 @@
                         <!-- Image Column -->
                         <div class="image-column col-lg-5 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="image">
-                                    <img src="images/man5.png" alt="" />
-                                </div>
+{{--                                <div class="image">--}}
+{{--                                    <img src="images/man5.png" alt="" />--}}
+{{--                                </div>--}}
                             </div>
                         </div>
 
@@ -135,19 +135,20 @@
                         <!-- Image Column -->
                         <div class="image-column col-lg-5 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="image">
-                                    <img src="images/man2.png" alt="" />
-                                </div>
+{{--                                <div class="image">--}}
+{{--                                    <img src="images/man2.png" alt="" />--}}
+{{--                                </div>--}}
                             </div>
                         </div>
 
                         <!-- Content Column -->
                         <div class="content-column col-lg-7 cl-md-12 col-sm-12">
                             <div class="inner-column">
-                                <div class="title">{{ env('ceo') }}</div>
-                                <h1>With over {{ env('exp') }} <br> </h1>
-                                <div class="text">President of the National Institute for Agricultural Reform and Development (IRYDA) of the Ministry of Agriculture. <br/>
-                                    In 1983 he returned to private enterprise, becoming the Chief Executive Officer Ryan Albert construction company Ltd.</div>
+                                <div class="title">{{ env('APP_NAME') }}</div>
+                                <h1>With Over {{ env('exp') }} <br> </h1>
+                                <div class="text">We specializes in design and delivery of stylish and contemporary luxury homes,
+                                    all over the world.
+                                </div>
 
                             </div>
                         </div>
@@ -174,7 +175,7 @@
                                 <h2>{{ env('APP_NAME') }}</h2>
                             </div>
                             <div class="text">
-                                <p>{{ env('APP_NAME') }} is a worldwide reference in the construction and infrastructure development industries, both civil and industrial. Since 2012
+                                <p>{{ env('APP_NAME') }} is a worldwide reference in the construction and infrastructure development industries, both civil and industrial. Since 1999
                                     {{ env('APP_NAME') }} leads the ENR ranking of International Contractors</p>
                                 <!--								<p>mercantile and feudal ecoan countries during the Industrial Revolution, mercantile and feudal economies.</p>-->
                             </div>
@@ -216,9 +217,9 @@
 
     <!-- Services Section -->
     <section class="services-section" id="services">
-        <div class="side-image">
-            <img src="/images/man1.png" alt="" />
-        </div>
+{{--        <div class="side-image">--}}
+{{--            <img src="/images/man1.png" alt="" />--}}
+{{--        </div>--}}
         <div class="auto-container">
             <div class="sec-title">
                 <div class="clearfix">
@@ -332,11 +333,10 @@
                             <div class="title"><span class="separator"></span>What Our Goal</div>
                             <h2>Why {{ env("ceo") }} is the best in the <br> construction industry</h2>
                             <div class="text">
-                                He began his professional career in 1981 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
-                                turning to business activities in the public sector. Between 1986 and 1992 he held various positions in central and local government,
-                                first as Director of Sanitation and the Environment for the Madrid City Council, and subsequently as Assistant Director-General at the
-                                Ministry of Industry and Energy, Director-General of Transport Infrastructures at the Ministry of Transport, and President of the National
-                                Institute for Agricultural Reform and Development (IRYDA) of the Ministry of Agriculture. In 1983 he returned to private enterprise,
+                                He began his professional career in 1999 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
+                                turning to business activities in the public sector. Between 1991 and 2005 he held various positions in central and local government,
+                                , first as Assistant Director-General at the
+                                Ministry of Industry and Energy and Director-General of Transport Infrastructures at the Ministry of Transport.. In 2006 he returned to private enterprise,
                                 becoming the Chief Executive Officer {{ env('APP_NAME') }}
                             </div>
                         </div>
@@ -453,7 +453,7 @@
                         <div class="inner-column">
                             <div class="image">
                                 <div class="pattern-layer" style="background-image:url(images/background/pattern-2.png)"></div>
-                                <img src="/images/man1.png" alt="" />
+                                <img src="/images/man3.png" alt="" />
                                 <div class="text"> Awards winning Contracts</div>
                             </div>
                         </div>

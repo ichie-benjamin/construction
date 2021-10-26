@@ -37,9 +37,13 @@
                         <h2>{{ env('ceo') }} <span class="category">CEO</span></h2>
 
                         <div class="text">
-                            He began his professional career in 1981 in the private sector, before serving as head of the Spanish Highways Association (AEC) until turning to business activities in the public sector. Between 1986 and 1992 he held various positions in central and local government, first as Director of Sanitation and the Environment for the Madrid City Council, and subsequently as Assistant Director-General at the Ministry of Industry and Energy, Director-General of Transport Infrastructures at the Ministry of Transport, and President of the National Institute for Agricultural Reform and Development (IRYDA) of the Ministry of Agriculture.
-                            In 1983 he returned to private enterprise, becoming the Chief Executive Officer Ryan Albert construction company Ltd
+                            He began his professional career in 1999 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
+                            turning to business activities in the public sector. Between 1991 and 2005 he held various positions in central and local government,
+                            , first as Assistant Director-General at the
+                            Ministry of Industry and Energy and Director-General of Transport Infrastructures at the Ministry of Transport.. In 2006 he returned to private enterprise,
+                            becoming the Chief Executive Officer {{ env('APP_NAME') }}
                         </div>
+
                         <div class="row clearfix">
                             <div class="column col-lg-6 col-md-6 col-sm-12">
                                 <ul class="list-style-three">

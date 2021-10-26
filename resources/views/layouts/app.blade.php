@@ -34,8 +34,8 @@
 
 <div class="page-wrapper">
 
-    <!-- Preloader -->
-    <div class="preloader"></div>
+{{--    <!-- Preloader -->--}}
+{{--    <div class="preloader"></div>--}}
 
 
 
