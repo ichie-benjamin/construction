@@ -51,7 +51,7 @@
                         <div class="icon flaticon-email-2"></div>
                         <strong>Mail us for information:</strong>
                         Email : <a href="mailto:{{ env('email') }}">{{ env('email') }}</a><br>
-                        Phone : <a href="tel:{{ env('phone') }}">{{ env('phone') }}</a>
+{{--                        Phone : <a href="tel:{{ env('phone') }}">{{ env('phone') }}</a>--}}
                     </div>
                 </div>
 

@@ -37,7 +37,7 @@
                         <h2>{{ env('ceo') }} <span class="category">CEO</span></h2>
 
                         <div class="text">
-                            He began his professional career in 1999 in the private sector, before serving as head of the Spanish Highways Association (AEC) until
+                            He began his professional career in 1999 in the private sector, before serving as head of the London Highways Association (AEC) until
                             turning to business activities in the public sector. Between 1991 and 2005 he held various positions in central and local government,
                             , first as Assistant Director-General at the
                             Ministry of Industry and Energy and Director-General of Transport Infrastructures at the Ministry of Transport.. In 2006 he returned to private enterprise,
