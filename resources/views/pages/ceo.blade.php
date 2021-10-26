@@ -26,7 +26,7 @@
                 <div class="image-column col-lg-4 col-md-12 col-sm-12">
                     <div class="inner-column wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="image">
-                            <img src="images/man5.png" alt="" />
+                            <img src="images/man15.png" alt="" />
                         </div>
                     </div>
                 </div>

@@ -64,7 +64,7 @@
                         <div class="image-column col-lg-5 cl-md-12 col-sm-12">
                             <div class="inner-column">
 {{--                                <div class="image">--}}
-{{--                                    <img src="images/man1.png" alt="" />--}}
+{{--                                    <img src="images/man11.png" alt="" />--}}
 {{--                                </div>--}}
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                         <div class="image-column col-lg-5 cl-md-12 col-sm-12">
                             <div class="inner-column">
 {{--                                <div class="image">--}}
-{{--                                    <img src="images/man5.png" alt="" />--}}
+{{--                                    <img src="images/man15.png" alt="" />--}}
 {{--                                </div>--}}
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
                             <div class="image">
-                                <img src="/images/man3.png" alt="" />
+                                <img src="/images/man13.png" alt="" />
                                 <!-- Experiance Box -->
                                 <div class="experiance-box">
                                     <div class="box-inner">
@@ -218,7 +218,7 @@
     <!-- Services Section -->
     <section class="services-section" id="services">
 {{--        <div class="side-image">--}}
-{{--            <img src="/images/man1.png" alt="" />--}}
+{{--            <img src="/images/man11.png" alt="" />--}}
 {{--        </div>--}}
         <div class="auto-container">
             <div class="sec-title">
@@ -319,7 +319,7 @@
                     <div class="inner-column">
                         <div class="image">
                             <div class="dark-layer"></div>
-                            <img src="/images/man5.png" alt="">
+                            <img src="/images/man15.png" alt="">
                         </div>
                         <div class="pattern-layer" style="background-image:url(images/background/pattern-7.png)"></div>
                     </div>
@@ -453,7 +453,7 @@
                         <div class="inner-column">
                             <div class="image">
                                 <div class="pattern-layer" style="background-image:url(images/background/pattern-2.png)"></div>
-                                <img src="/images/man3.png" alt="" />
+                                <img src="/images/man13.png" alt="" />
                                 <div class="text"> Awards winning Contracts</div>
                             </div>
                         </div>
