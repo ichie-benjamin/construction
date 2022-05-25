@@ -716,7 +716,7 @@
                 <div class="col-md-4 testimonial-block">
                     <div class="inner-box">
                         <div class="image">
-                            <img src="images/resource/author-1.jpg" alt="" />
+                            <img src="images/test.jpg" alt="" />
                         </div>
                         <div class="text">Thanks to this awesome engineer.  He was able to do my Aircraft repainting
                             and oil changing. You are great! </div>
