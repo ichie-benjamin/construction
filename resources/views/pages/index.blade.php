@@ -744,11 +744,12 @@
                     Our Expertise has Ranked us as best Safety Trainer and Aircraft Engineer for several years
                 </div>
             </div>
-            <div class="four-item-carousel owl-carousel owl-theme">
+{{--            <div class="four-item-carousel owl-carousel owl-theme">--}}
+            <div class="row">
 
                 <!--Services Block Two-->
                 @foreach($awards as $item)
-                    <div class="service-block-two">
+                    <div class="service-block-two col-md-6">
                         <div class="inner-box">
                             <div class="flip-container" >
                                 <div class="flipper">
