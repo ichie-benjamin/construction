@@ -147,53 +147,9 @@ We help you make the right decisions in managing your aircraft and choosing the 
             ],[
                 'name' => 'FLIGHT INSPECTION AND TESTING',
                 'type' => 'road',
-                'img' => '/images/ser/12.jpg',
-            ],
-            [
-                'name' => 'FLIGHT ENGINEER',
-                'type' => 'construction',
-                'img' => '/images/main-slider/3.png',
-            ],       [
-                'name' => 'FLIGHT ENGINEER',
-                'type' => 'construction',
-                'img' => '/images/main-slider/2.jpg',
-            ],       [
-                'name' => 'FLIGHT ENGINEER',
-                'type' => 'construction',
-                'img' => '/images/main-slider/3.png',
-            ],   [
-                'name' => 'FLIGHT ENGINEER',
-                'type' => 'construction',
-                'img' => '/images/main-slider/4.jpg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/main-slider/5.jpg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/main-slider/1.webp',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/main-slider/7.jpg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/main-slider/4.jpg',
-            ],[
-                'name' => 'projects',
-                'type' => 'road',
-                'img' => '/images/ser/1.jpg',
-            ],[
-                'name' => 'projects',
-                'type' => 'road',
-                'img' => '/images/ser/3.jpg',
-            ],[
-                'name' => 'projects',
-                'type' => 'road',
-                'img' => '/images/ser/4.jpeg',
-            ],
+                'img' => '/images/11.jpg',
+            ]
+
         ];
 
         return $projects;

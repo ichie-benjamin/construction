@@ -7,10 +7,10 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/12.jpg)">
         <div class="auto-container">
-            <h1>Gallery</h1>
+            <h1>Projects</h1>
             <ul class="page-breadcrumb">
                 <li><a href="{{ route('home') }}">Home</a></li>
-                <li>Gallery</li>
+                <li>Projects</li>
             </ul>
         </div>
     </section>
@@ -22,7 +22,7 @@
 
             <!--Sec Title-->
             <div class="sec-title">
-                <h2>Our Gallery</h2>
+                <h2>Our Projects</h2>
             </div>
 
             <!--Sortable Masonry-->

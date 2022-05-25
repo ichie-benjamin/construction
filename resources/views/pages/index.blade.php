@@ -571,10 +571,10 @@
 
                     <!--Gallery Item-->
                     @foreach($projects as $item)
-                        <div class="gallery-item mix all {{ $item['type'] }} col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <div class="gallery-item mix all {{ $item['type'] }} col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img style="height: 200px" src="{{ $item['img'] }}" alt="" />
+                                    <img style="max-height: 500px" src="{{ $item['img'] }}" alt="" />
                                     <div class="overlay-box">
                                         <div class="content">
                                             <h3><a href="#">{{ $item['name'] }}</a></h3>
