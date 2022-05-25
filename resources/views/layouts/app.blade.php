@@ -77,7 +77,7 @@
                 <div class="outer-container clearfix">
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="{{ route('home') }}"><img src="/images/logo.png" alt=""></a></div>
+                        <div class="logo"><a href="{{ route('home') }}"><img src="/images/logo_new.png" alt=""></a></div>
                     </div>
 
                     <!--Nav Outer-->
@@ -123,7 +123,7 @@
                 <div class="sticky-inner-container clearfix">
                     <!--Logo-->
                     <div class="logo pull-left">
-                        <a href="{{ route('home') }}" class="img-responsive"><img src="/images/logo-small.png" alt="" title=""></a>
+                        <a href="{{ route('home') }}" class="img-responsive"><img src="/images/logo_new.png" alt="" title=""></a>
                     </div>
 
                     <!--Right Col-->
