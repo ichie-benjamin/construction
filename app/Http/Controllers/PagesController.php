@@ -18,9 +18,10 @@ class PagesController extends Controller
     public function service()
     {
         $services = $this->services();
+        $projects = $this->projectImgs();
         $c_services = $this->cServices();
 
-        return view('pages.services',compact('services','c_services'));
+        return view('pages.services',compact('services','c_services','projects'));
 
     }
     public function ceo(){

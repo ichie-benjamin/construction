@@ -660,29 +660,29 @@
 
     <!--Testimonial Section-->
     <section class="testimonial-section">
-        <div class="auto-container">
+        <div class="auto-container" style="padding: 0 35px">
             <!--Sec Title Two-->
             <div class="sec-title-two centered">
                 <h2>What our client says</h2>
             </div>
-            <div class="two-item-carousel owl-carousel owl-theme">
+            <div class="row">
 
 
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="image">
-                            <img src="images/test.jpg" alt="" />
-                        </div>
-                        <div class="text">I have dealt with multiple professional organizations over the last 45 years.
-                            But only a few of them performed to the level of dedication, responsiveness, thoroughness, diligence, and customer focus that yours has.  Thanks again for your support.
-                            Please pass along my appreciation for a job well done to all that helped me through this process. </div>
-                        <div class="author-name">- JJ Suarez, Ohio</div>
-                        {{--                        <div class="author-designation">Ceo of Mart</div>--}}
-                    </div>
-                </div>
+{{--                <div class="col-md-4 testimonial-block">--}}
+{{--                    <div class="inner-box">--}}
+{{--                        <div class="image">--}}
+{{--                            <img src="images/test.jpg" alt="" />--}}
+{{--                        </div>--}}
+{{--                        <div class="text">I have dealt with multiple professional organizations over the last 45 years.--}}
+{{--                            But only a few of them performed to the level of dedication, responsiveness, thoroughness, diligence, and customer focus that yours has.  Thanks again for your support.--}}
+{{--                            Please pass along my appreciation for a job well done to all that helped me through this process. </div>--}}
+{{--                        <div class="author-name">- JJ Suarez, Ohio</div>--}}
+{{--                        --}}{{--                        <div class="author-designation">Ceo of Mart</div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <!--Testimonial Block-->
-                <div class="testimonial-block">
+                <div class="col-md-4 testimonial-block">
                     <div class="inner-box">
                         <div class="image">
                             <img src="images/resource/author-1.jpg" alt="" />
@@ -699,7 +699,7 @@
                 </div>
 
                 <!--Testimonial Block-->
-                <div class="testimonial-block">
+                <div class="col-md-4 testimonial-block">
                     <div class="inner-box">
                         <div class="image">
                             <img src="images/resource/author-2.jpg" alt="" />
@@ -713,7 +713,7 @@
                 </div>
 
                 <!--Testimonial Block-->
-                <div class="testimonial-block">
+                <div class="col-md-4 testimonial-block">
                     <div class="inner-box">
                         <div class="image">
                             <img src="images/resource/author-1.jpg" alt="" />

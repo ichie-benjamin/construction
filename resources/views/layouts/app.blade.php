@@ -51,6 +51,16 @@
             color: white!important;
             margin: 5px 0px;
         }
+        .services-section .title-column .styled-text {
+            font-style: normal;
+        }
+
+        .testimonial-block {
+            border-radius: 10px;
+            background-color: #ffffff;
+            margin-bottom: 20px;
+            padding: 10px 5px;
+        }
     </style>
 </head>
 
