@@ -731,6 +731,54 @@
     <!--End Testimonial Section-->
 
 
+
+    <!--Services Section Two-->
+    <section class="services-section-two" style="background-image:url(images/background/1.png)">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>Awards & Recognitions</h2>
+                <div class="text">
+                    Our Expertise has Ranked us as best Safety Trainer and Aircraft Engineer for several years
+                </div>
+            </div>
+            <div class="four-item-carousel owl-carousel owl-theme">
+
+                <!--Services Block Two-->
+                @foreach($awards as $item)
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="flip-container" >
+                                <div class="flipper">
+                                    <div class="front">
+
+                                        <h3>{{ $item['name'] }}</h3>
+                                        <div class="text">{{ $item['info'] }}.</div>
+                                    </div>
+
+                                    <div class="back">
+                                        <div class="overlay-box">
+                                            <div class="overlay-inner">
+                                                <div class="overlay-content">
+                                                    <h4><a href="">{{ $item['name'] }};</a></h4>
+                                                    <div class="overlay-text">{{ $item['info'] }}</div>
+                                                    {{--                                                    <a href="{{ route('services') }}" class="read-more">Read more</a>--}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+
+
+            </div>
+        </div>
+    </section>
+    <!--End Services Section Two-->
+
+
     @section('hide')
     <!--Team Section-->
     <section class="team-section">

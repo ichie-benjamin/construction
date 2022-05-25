@@ -9,14 +9,18 @@ class PagesController extends Controller
     public function index(){
         $services = $this->services();
         $c_services = $this->cServices();
+        $awards = $this->awards();
+
         $projects = $this->projectImgs();
-        return view('pages.index',compact('services','projects','c_services'));
+        return view('pages.index',compact('services','projects','c_services','awards'));
     }
 
     public function service()
     {
         $services = $this->services();
-        return view('pages.services',compact('services'));
+        $c_services = $this->cServices();
+
+        return view('pages.services',compact('services','c_services'));
 
     }
     public function ceo(){
@@ -24,7 +28,9 @@ class PagesController extends Controller
     }
 
     public function about(){
-        return view('pages.about');
+        $c_services = $this->cServices();
+        $awards = $this->awards();
+        return view('pages.about', compact('c_services','awards'));
     }
     public function contact(){
         return view('pages.contact');

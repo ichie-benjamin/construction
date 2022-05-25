@@ -24,6 +24,40 @@ class Controller extends BaseController
     }
 
 
+    public function awards(): array
+    {
+        return [
+            [
+                'name' => 'Safety Engineer Award',
+                'info' => '
+Highly inclined safety precaution during flight training, Aeronautical Training and Aircraft Maintenance',
+            ], [
+                'name' => 'Flight Safety Award',
+                'info' => '
+Highly inclined safety precaution during flight training, Aeronautical Training and Aircraft Maintenance',
+            ],[
+                'name' => 'Airframe Kit Award',
+                'info' => '
+Airflight training, Aeronautical Training and Aircraft Maintenance',
+            ],
+            [
+                'name' => 'Aircraft Innovative Award',
+                'info' => '
+High aircraft maintenance for the year',
+            ],[
+                'name' => 'Flight Engineer Award',
+                'info' => '
+high performing flight engineer for the year',
+            ],[
+                'name' => 'Flight Consult Award',
+                'info' => '
+Fast consultant with high effectiveness',
+            ],
+        ];
+
+            }
+
+
     public function cServices()
     {
         $services = [
