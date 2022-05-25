@@ -544,7 +544,7 @@
 
     <!--Gallery Section-->
     <section class="gallery-section">
-        <div class="auto-container">
+        <div class="auto-container projects">
             <div class="sec-title light">
                 <h2>Our Projects</h2>
             </div>
@@ -580,6 +580,9 @@
                                             <h3><a href="#">{{ $item['name'] }}</a></h3>
                                         </div>
                                     </div>
+                                </div>
+                                <div class="text-center">
+                                    <h3>{{ $item['name'] }}</h3>
                                 </div>
                             </div>
                         </div>

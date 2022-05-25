@@ -44,6 +44,13 @@
             background-color: #2098d1;
             border-radius: 20px;
         }
+        .projects {
+            padding: 0 50px!important;
+        }
+        .projects h3 {
+            color: white!important;
+            margin: 5px 0px;
+        }
     </style>
 </head>
 
