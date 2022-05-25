@@ -196,7 +196,7 @@
                                     </div>
                                     <div class="text">
 
-                                        Setting the standard for modern aviation is a top priority for Airbus.
+                                        Setting the standard for modern aviation is a top priority for {{ env('APP_NAME') }}.
                                         Making it safer, cleaner and more fuel-efficient thanks to our products,
                                         services and customer care, while ensuring our customers'
                                         needs are covered all over the world is our commitment.
