@@ -20,6 +20,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="/js/respond.js"></script><![endif]-->
+
+    <style>
+        .call-to-action-section h2 {
+            color: #fff;
+        }
+        .counter-section .counter-column h2 {
+            color: #fff;
+        }
+        .fact-counter .count-outer .count-text {
+            color: #fff;
+        }
+    </style>
 </head>
 
 <body>
@@ -65,7 +77,7 @@
                 <div class="outer-container clearfix">
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="{{ route('home') }}"><img src="images/logo.png" alt=""></a></div>
+                        <div class="logo"><a href="{{ route('home') }}"><img src="/images/logo.png" alt=""></a></div>
                     </div>
 
                     <!--Nav Outer-->
@@ -183,8 +195,12 @@
                                         <a href="{{ route('home') }}"><img src="images/logo.png" alt="" /></a>
                                     </div>
                                     <div class="text">
-                                        {{ env('APP_NAME') }} offers specialist architecture and residential construction services. Our company specializes in design and delivery of stylish and contemporary luxury homes, predominantly in exclusive areas of Greater
-                                        {{ env('country') }}, road and all kinds of constructions
+
+                                        Setting the standard for modern aviation is a top priority for Airbus.
+                                        Making it safer, cleaner and more fuel-efficient thanks to our products,
+                                        services and customer care, while ensuring our customers'
+                                        needs are covered all over the world is our commitment.
+
                                     </div>
 
                                 </div>
@@ -219,12 +235,12 @@
                                     <h2>Our Services</h2>
                                     <div class="widget-content">
                                         <ul class="list">
-                                            <li><a href="{{ route('services') }}">Building Construction</a></li>
-                                            <li><a href="{{ route('services') }}">Building Renovation</a></li>
-                                            <li><a href="{{ route('services') }}">Architecture Design</a></li>
-                                            <li><a href="{{ route('services') }}">Flooring & Roofing</a></li>
-                                            <li><a href="{{ route('services') }}">Road Construction</a></li>
-                                            <li><a href="{{ route('services') }}">Malls and Event centers</a></li>
+                                            <li><a href="{{ route('services') }}">Train</a></li>
+                                            <li><a href="{{ route('services') }}">Operate </a></li>
+                                            <li><a href="{{ route('services') }}">Maintain</a></li>
+                                            <li><a href="{{ route('services') }}">Enhance </a></li>
+                                            <li><a href="{{ route('services') }}">Expand </a></li>
+{{--                                            <li><a href="{{ route('services') }}">Malls and Event centers</a></li>--}}
                                         </ul>
                                     </div>
                                 </div>
@@ -254,7 +270,7 @@
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="column col-md-6 col-sm-12 col-xs-12">
-                        <div class="copyright">Copyright &copy; {{ env('APP_NAME') }} {{ date('Y') }}. All rights reserved. </div>
+                        <div class="copyright">Copyright &copy; {{ env('APP_NAME') }}. All rights reserved. </div>
                     </div>
                     {{--                    <div class="column col-md-6 col-sm-12 col-xs-12">--}}
                     {{--                        <div class="created">Created by: ThemeArc</div>--}}

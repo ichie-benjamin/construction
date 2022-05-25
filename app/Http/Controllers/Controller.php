@@ -27,40 +27,30 @@ class Controller extends BaseController
     public function services(){
         $Services = [
             [
-                'name' => 'Underpinning',
-                'info' => 'We have extensive experience in underpinning above & below the water table.',
+                'name' => 'Operate',
+                'info' => 'Flight Operations solutions to help our customers deliver safe, on-time services and increase operational efficiency.',
                 'img' => '/images/ser/under.jpeg',
             ],
             [
-                'name' => 'Shell and Core',
-                'info' => 'We design & supply all formwork, from a single storey to a high rise concrete frame',
-                'img' => '/images/ser/shell.jpeg',
+                'name' => 'Train',
+                'info' => 'Flight Operations solutions to help our customers deliver safe, on-time services and increase operational efficiency.',
+                'img' => '/images/ser/1.jpg',
             ],
             [
-                'name' => 'Concrete Frames',
-                'info' => 'We design & supply all formwork, from a single storey to a high rise concrete frame.',
-                'img' => '/images/ser/con.jpeg',
+                'name' => 'Maintain',
+                'info' => 'Solutions to ensure safe efficient maintenance across the entire aircraft lifecycle.',
+                'img' => '/images/ser/2.jpg',
             ] ,
             [
-                'name' => 'Basements',
+                'name' => 'Enhance',
+                'info' => 'Tailored on-board solutions improving passenger comfort and safety, integrating digital solutions across the aviation ecosystem.',
+                'img' => '/images/ser/3.jpg',
+            ],
+            [
+                'name' => 'Expand',
                 'info' => 'We build every type of basement from retrofit basements to new build basement construction',
-                'img' => '/images/ser/base.jpeg',
-            ],
-            [
-                'name' => 'Construction',
-                'info' => 'We build every type of basement from retrofit basements to new build basement construction',
-                'img' => '/images/ser/con1.jpeg',
-            ],
-            [
-                'name' => 'Civil Engineering ',
-                'info' => 'We design and build our Civil Engineering Projects with cutting-edge technologies to deliver quality, speed and efficiency.',
-                'img' => '/images/ser/ce.jpeg',
-            ],
-            [
-            'name' => 'DEMOLITION & SITE CLEARANCE',
-            'info' => '.',
-            'img' => '/images/ser/con.jpeg',
-        ],
+                'img' => '/images/ser/4.jpeg',
+            ]
     ];
 
         return $Services;
@@ -69,37 +59,66 @@ class Controller extends BaseController
     public function projectImgs(){
         $projects = [
             [
+                'name' => 'Field Inspection',
+                'type' => 'road',
+                'img' => '/images/ser/14.jpg',
+            ],[
+                'name' => 'ENGINE OVERHAULING',
+                'type' => 'road',
+                'img' => '/images/ser/13.jpg',
+            ],[
+                'name' => 'PRIVATE JET TESTING / MAINTENANCE',
+                'type' => 'road',
+                'img' => '/images/ser/11.png',
+            ],[
+                'name' => 'FLIGHT INSPECTION AND TESTING',
+                'type' => 'road',
+                'img' => '/images/ser/12.jpg',
+            ],
+            [
                 'name' => 'construction project',
                 'type' => 'construction',
-                'img' => '/images/ser/1.jpeg',
+                'img' => '/images/main-slider/3.png',
             ],       [
                 'name' => 'construction project',
                 'type' => 'construction',
-                'img' => '/images/ser/2.jpeg',
+                'img' => '/images/main-slider/2.jpg',
             ],       [
                 'name' => 'construction project',
                 'type' => 'construction',
-                'img' => '/images/ser/3.jpeg',
+                'img' => '/images/main-slider/3.png',
             ],   [
                 'name' => 'construction project',
                 'type' => 'construction',
+                'img' => '/images/main-slider/4.jpg',
+            ],[
+                'name' => 'Road project',
+                'type' => 'road',
+                'img' => '/images/main-slider/5.jpg',
+            ],[
+                'name' => 'Road project',
+                'type' => 'road',
+                'img' => '/images/main-slider/1.webp',
+            ],[
+                'name' => 'Road project',
+                'type' => 'road',
+                'img' => '/images/main-slider/7.jpg',
+            ],[
+                'name' => 'Road project',
+                'type' => 'road',
+                'img' => '/images/main-slider/4.jpg',
+            ],[
+                'name' => 'projects',
+                'type' => 'road',
+                'img' => '/images/ser/1.jpg',
+            ],[
+                'name' => 'projects',
+                'type' => 'road',
+                'img' => '/images/ser/3.jpg',
+            ],[
+                'name' => 'projects',
+                'type' => 'road',
                 'img' => '/images/ser/4.jpeg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/ser/road1.jpeg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/ser/road2.jpeg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/ser/road3.jpeg',
-            ],[
-                'name' => 'Road project',
-                'type' => 'road',
-                'img' => '/images/ser/road4.jpeg',
             ],
         ];
 

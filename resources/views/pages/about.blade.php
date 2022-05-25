@@ -4,7 +4,7 @@
 
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/ser/road4.jpeg)">
+    <section class="page-title" style="background-image:url(images/main-slider/image-2.jpg)">
         <div class="auto-container">
             <h1>About Us</h1>
             <ul class="page-breadcrumb">
@@ -26,19 +26,22 @@
                         <div class="sec-title">
                             <h2>About {{ env('APP_NAME') }}</h2>
                         </div>
-                        <div class="styled-text text-justify">We operate an integrated business model comprising the full range of engineering,
-                            construction and asset management
-                            services delivering single-source solutions for some of the world's most prestigious public and private organisations.</div>
+                        <div class="styled-text text-justify">{{ env('APP_NAME') }} groups is a proven leader in global aerospace sector.
+                            These cutting-edge products and services – which span the commercial aircraft, helicopter,
+                            defence, security and space segments – benefit from our wide-ranging expertise and
+                            continued emphasis on innovation.
+                        </div>
                         <div class="text text-justify">
-                            <p> {{ env('APP_NAME') }} has been building  basement conversions and civil engineering projects for {{ env('exp') }} years.
+                            <p>
+                                Setting the standard for modern aviation is a top priority for Airbus.
+                                Making it safer, cleaner and more fuel-efficient thanks to our products, services and customer care,
+                                while ensuring our customers' needs are covered all over the world is our commitment.
                                 {{ env('ceo') }} has an amazing team of in-house architects, engineers, and construction managers.
                                 We have the best team to deliver your basement conversions.
 
                                 We are regularly audited by independent experts to ensure we hit the highest technical, and health & safety standards.
                                 We make a computer 3D model and simulation of the build. This help us to solve design issues before we even start on site.
-                                It is also useful to sequence every basement conversion project and civil engineering project perfectly.
 
-                                {{ env('APP_NAME') }} has won many construction awards like Construction News ‘Contractor of the year’, the CN “Digital Contractor of the Year” and Ground Engineering Contractor of the Year.
 
                             </p>
                             <p>Our construction company specialist waterproofing in-house team will design and install it all wrapped up in a 10-year insurance-backed guarantee.
@@ -58,7 +61,7 @@
                 <div class="image-column col-md-4 col-sm-12 col-xs-12">
                     <div class="inner-column">
                         <div class="image">
-                            <img src="images/sam11.png" alt="" />
+                            <img src="images/man.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -69,11 +72,11 @@
     <!--End Approach Section-->
 
     <!--Fluid Section One-->
-    <section class="fluid-section-one" style="background-image:url(images/resource/image-4.jpg)">
+    <section class="fluid-section-one" style="background-image:url(images/ser/6.jpg)">
         <div class="outer-container clearfix">
             <!--Image Column-->
-            <div class="image-column" style="background-image:url(images/resource/image-3.jpg);">
-                <figure class="image-box"><img src="images/resource/image-3.jpg" alt=""></figure>
+            <div class="image-column" style="background-image:url(images/ser/6.jpg);">
+                <figure class="image-box"><img src="images/ser/6.jpg" alt=""></figure>
             </div>
             <!--Content Column-->
             <div class="content-column">
@@ -92,13 +95,13 @@
     <!--End Fluid Section One-->
 
     <!--Contruction Section-->
-    <section class="contruction-section" style="background-image:url(images/background/3.png)">
+    <section class="contruction-section" style="background-image:url(images/ser/6.jpeg)">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Image Column-->
                 <div class="image-column col-md-4 col-sm-12 col-xs-12">
                     <div class="image">
-                        <img src="images/sam.png" alt="" />
+                        <img src="images/man.png" alt="" />
                     </div>
                 </div>
                 <!--Content Column-->
@@ -122,8 +125,8 @@
 
     <section class="renovation-section" style="background-image:url(images/background/5.jpg)">
         <div class="auto-container">
-            <h3>Great <span>Experience</span> for Building </h3>
-            <h2>Construction & Renovation</h2>
+            <h3>Caring <span>for a </span> cleaner way to fly.</h3>
+
             <a href="{{ route('contact') }}" class="theme-btn btn-style-one">Contact us now</a>
         </div>
     </section>

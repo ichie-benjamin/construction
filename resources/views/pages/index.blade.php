@@ -9,75 +9,75 @@
             <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                 <ul>
 
-                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/ser/slide2.jpeg">
+{{--                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">--}}
+{{--                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/4.jpg">--}}
 
 
 
-                    </li>
-                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/image-1.jpg">
+{{--                    </li>--}}
+{{--                    <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1688" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-1.jpg" data-title="Slide Title" data-transition="parallaxvertical">--}}
+{{--                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/3.png">--}}
 
-                        <div class="tp-caption"
-                             data-paddingbottom="[0,0,0,0]"
-                             data-paddingleft="[0,0,0,0]"
-                             data-paddingright="[0,0,0,0]"
-                             data-paddingtop="[0,0,0,0]"
-                             data-responsive_offset="on"
-                             data-type="text"
-                             data-height="none"
-                             data-width="['750','700','700','550']"
-                             data-whitespace="normal"
-                             data-hoffset="['15','15','15','15']"
-                             data-voffset="['-10','-90','-90','-90']"
-                             data-x="['left','left','left','left']"
-                             data-y="['middle','middle','middle','middle']"
-                             data-textalign="['top','top','top','top']"
-                             data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <h2>We’re professionals <br> for building <span>constructions</span></h2>
-                        </div>
+{{--                        <div class="tp-caption"--}}
+{{--                             data-paddingbottom="[0,0,0,0]"--}}
+{{--                             data-paddingleft="[0,0,0,0]"--}}
+{{--                             data-paddingright="[0,0,0,0]"--}}
+{{--                             data-paddingtop="[0,0,0,0]"--}}
+{{--                             data-responsive_offset="on"--}}
+{{--                             data-type="text"--}}
+{{--                             data-height="none"--}}
+{{--                             data-width="['750','700','700','550']"--}}
+{{--                             data-whitespace="normal"--}}
+{{--                             data-hoffset="['15','15','15','15']"--}}
+{{--                             data-voffset="['-10','-90','-90','-90']"--}}
+{{--                             data-x="['left','left','left','left']"--}}
+{{--                             data-y="['middle','middle','middle','middle']"--}}
+{{--                             data-textalign="['top','top','top','top']"--}}
+{{--                             data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>--}}
+{{--                            <h2>We’re professionals <br> for building <span>constructions</span></h2>--}}
+{{--                        </div>--}}
 
-                        <div class="tp-caption"
-                             data-paddingbottom="[0,0,0,0]"
-                             data-paddingleft="[0,0,0,0]"
-                             data-paddingright="[0,0,0,0]"
-                             data-paddingtop="[0,0,0,0]"
-                             data-responsive_offset="on"
-                             data-type="text"
-                             data-height="none"
-                             data-width="['700','700','700','550']"
-                             data-whitespace="normal"
-                             data-hoffset="['15','15','15','15']"
-                             data-voffset="['110','40','20','0']"
-                             data-x="['left','left','left','left']"
-                             data-y="['middle','middle','middle','middle']"
-                             data-textalign="['top','top','top','top']"
-                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <div class="text">We have provided complete remodeling and construction solutions for residential and commercial properties in cities.</div>
-                        </div>
+{{--                        <div class="tp-caption"--}}
+{{--                             data-paddingbottom="[0,0,0,0]"--}}
+{{--                             data-paddingleft="[0,0,0,0]"--}}
+{{--                             data-paddingright="[0,0,0,0]"--}}
+{{--                             data-paddingtop="[0,0,0,0]"--}}
+{{--                             data-responsive_offset="on"--}}
+{{--                             data-type="text"--}}
+{{--                             data-height="none"--}}
+{{--                             data-width="['700','700','700','550']"--}}
+{{--                             data-whitespace="normal"--}}
+{{--                             data-hoffset="['15','15','15','15']"--}}
+{{--                             data-voffset="['110','40','20','0']"--}}
+{{--                             data-x="['left','left','left','left']"--}}
+{{--                             data-y="['middle','middle','middle','middle']"--}}
+{{--                             data-textalign="['top','top','top','top']"--}}
+{{--                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>--}}
+{{--                            <div class="text">We have provided complete remodeling and construction solutions for residential and commercial properties in cities.</div>--}}
+{{--                        </div>--}}
 
-                        <div class="tp-caption tp-resizeme"
-                             data-paddingbottom="[0,0,0,0]"
-                             data-paddingleft="[0,0,0,0]"
-                             data-paddingright="[0,0,0,0]"
-                             data-paddingtop="[0,0,0,0]"
-                             data-responsive_offset="on"
-                             data-type="text"
-                             data-height="none"
-                             data-width="['560','700','700','550']"
-                             data-whitespace="normal"
-                             data-hoffset="['15','15','15','15']"
-                             data-voffset="['200','140','120','100']"
-                             data-x="['left','left','left','left']"
-                             data-y="['middle','middle','middle','middle']"
-                             data-textalign="['top','top','top','top']"
-                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <div class="btns-box">
-                                <a href="{{ route('contact') }}" class="theme-btn btn-style-one">Get appointment</a>
-                            </div>
-                        </div>
+{{--                        <div class="tp-caption tp-resizeme"--}}
+{{--                             data-paddingbottom="[0,0,0,0]"--}}
+{{--                             data-paddingleft="[0,0,0,0]"--}}
+{{--                             data-paddingright="[0,0,0,0]"--}}
+{{--                             data-paddingtop="[0,0,0,0]"--}}
+{{--                             data-responsive_offset="on"--}}
+{{--                             data-type="text"--}}
+{{--                             data-height="none"--}}
+{{--                             data-width="['560','700','700','550']"--}}
+{{--                             data-whitespace="normal"--}}
+{{--                             data-hoffset="['15','15','15','15']"--}}
+{{--                             data-voffset="['200','140','120','100']"--}}
+{{--                             data-x="['left','left','left','left']"--}}
+{{--                             data-y="['middle','middle','middle','middle']"--}}
+{{--                             data-textalign="['top','top','top','top']"--}}
+{{--                             data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>--}}
+{{--                            <div class="btns-box">--}}
+{{--                                <a href="{{ route('contact') }}" class="theme-btn btn-style-one">Get appointment</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
 
-                    </li>
+{{--                    </li>--}}
 
                     <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1689" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-2.jpg" data-title="Slide Title" data-transition="parallaxvertical">
                         <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/image-2.jpg">
@@ -145,7 +145,7 @@
                     </li>
 
                     <li data-description="Slide Description" data-easein="default" data-easeout="default" data-fsmasterspeed="1500" data-fsslotamount="7" data-fstransition="fade" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1690" data-masterspeed="default" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="images/main-slider/image-3.jpg" data-title="Slide Title" data-transition="parallaxvertical">
-                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/main-slider/image-3.jpg">
+                        <img alt="" class="rev-slidebg" data-bgfit="cover" data-bgparallax="10" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" src="images/ser/8.jpg">
 
                         <div class="tp-caption"
                              data-paddingbottom="[0,0,0,0]"
@@ -227,12 +227,15 @@
                         <div class="sec-title">
                             <h2>Who We Are</h2>
                         </div>
-                        <div class="styled-text">{{ env('APP_NAME') }} is an established construction company.
+                        <div class="styled-text">{{ env('APP_NAME') }} is a proven leader in global aerospace sector.
                         </div>
-                        <div class="text">With over {{ env('exp') }} years of experience, we have a versatile team of highly skilled tradesmen and professionals, including: Civil Engineers, Architects, Gas Engineers, Electricians, Plumbers, Painters and Decorators.
-                            Our head office is based in {{ env('address') }}, providing construction services for clients in and around
-                            {{ env('country') }}, and all part of the world.</div>
-                        <a href="#" class="theme-btn btn-style-one">View all services</a>
+                        <div class="text">
+                            These cutting-edge products and services – which span the commercial aircraft,
+                            helicopter, defence, security and space segments – benefit from our wide-ranging
+                            expertise and continued emphasis on innovation.
+
+                        </div>
+                        <a href="/services" class="theme-btn btn-style-one">View all services</a>
                     </div>
                 </div>
 
@@ -245,14 +248,15 @@
                             <div class="service-block col-md-6 col-sm-6 col-xs-12">
                                 <div class="inner-box">
                                     <div class="image">
-                                        <a href="building-contruction.html"><img src="images/resource/service-1.jpg" alt="" /></a>
+                                        <a href="#"><img src="images/ser/1.jpg" alt="" /></a>
                                     </div>
                                     <div class="lower-box">
-                                        <h3><a href="#">Basements</a></h3>
-                                        <div class="text">We are an award-winning {{ env('country') }} basement conversions company with
-                                            {{ env('exp') }} years of experience.
-                                            We build every type of basement from retrofit basements to new build basement construction.
-                                            All basement conversions include a 10-year insurance-backed guarantee.
+                                        <h3><a href="#">WHAT WE DO</a></h3>
+                                        <div class="text">
+                                            Setting the standard for modern aviation is a top priority for Airbus. <br/>
+
+                                            Making it safer, cleaner and more fuel-efficient thanks to our products, services and customer care,
+                                            while ensuring our customers' needs are covered all over the world is our commitment.
                                         </div>
                                         {{--                                        <a href="building-contruction.html" class="read-more">Read more</a>--}}
                                     </div>
@@ -263,13 +267,19 @@
                             <div class="service-block col-md-6 col-sm-6 col-xs-12">
                                 <div class="inner-box">
                                     <div class="image">
-                                        <a href="{{ route('services') }}"><img src="images/man3.png" alt="" /></a>
+                                        <a href="{{ route('services') }}"><img src="images/ser/6.jpg" alt="" /></a>
                                     </div>
                                     <div class="lower-box">
-                                        <h3><a href="">Construction</a></h3>
-                                        <div class="text">{{ env('APP_NAME') }} offers a wide range of building construction services and will achieve the most technical and complex of building construction projects.
-                                            Our building construction projects range between small local extensions and multi-million football stadiums.</div>
-                                        <a href="{{ route('services') }}" class="read-more">Read more</a>
+                                        <h3><a href="#">Customer Care</a></h3>
+
+                                        We believe that operators, lessors and MROs deserve first-class customer care.
+
+                                        And this is what {{ env('APP_NAME') }} offers long before, during and after the delivery of an aircraft.
+
+                                        Our mission is to improve your in-service fleet efficiency, provide you with the keys to
+                                        being autonomous in managing your aircraft, as well as to safeguard your operations and help
+                                        you recover from unforeseeable events.
+
                                     </div>
                                 </div>
                             </div>
@@ -289,10 +299,14 @@
             <div class="sec-title">
                 <h2>Our Services</h2>
                 <div class="text">
-                    We are a fully insured & qualified Contractor offering a wide range of construction services in
-                    {{ env('country') }} and the surrounding areas.
-                    We take pride in providing high quality services at competitive prices. We work in all types of properties:
-                    houses, flats, studios, luxury apartments, offices, shops, restaurants, schools, HMOs, etc.</div>
+
+                    {{ env("APP_NAME") }} Services purpose is to further enhance safety in the aviation industry,
+                    strengthen our relationship with our customers and contribute to a more sustainable future.
+                    From a fully integrated package including training, flight operations, maintenance, upgrades, dismantling & recycling,
+                    to a single ad hoc solution, our complete services portfolio covers the entire aircraft
+                    life cycle from entry into service to end-of-life.
+
+                </div>
             </div>
             <div class="four-item-carousel owl-carousel owl-theme">
 
@@ -406,20 +420,20 @@
             <div class="mixitup-gallery">
 
                 <!--Filter-->
-                <div class="filters clearfix">
+{{--                <div class="filters clearfix">--}}
 
-                    <ul class="filter-tabs filter-btns clearfix">
-                        <li class="active filter" data-role="button" data-filter="all">All</li>
-                        <li class="filter" data-role="button" data-filter=".road">Roads</li>
-                        <li class="filter" data-role="button" data-filter=".commercial">Commercial</li>
-                        <li class="filter" data-role="button" data-filter=".education">Education</li>
-                        <li class="filter" data-role="button" data-filter=".hospital">Hospital</li>
-                        <li class="filter" data-role="button" data-filter=".residential">Residential</li>
-                        <li class="filter" data-role="button" data-filter=".office">Office</li>
-                        <li class="filter" data-role="button" data-filter=".construction">Construction</li>
-                    </ul>
+{{--                    <ul class="filter-tabs filter-btns clearfix">--}}
+{{--                        <li class="active filter" data-role="button" data-filter="all">All</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".road">Roads</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".commercial">Commercial</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".education">Education</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".hospital">Hospital</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".residential">Residential</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".office">Office</li>--}}
+{{--                        <li class="filter" data-role="button" data-filter=".construction">Construction</li>--}}
+{{--                    </ul>--}}
 
-                </div>
+{{--                </div>--}}
 
                 <div class="filter-list row clearfix">
 
@@ -439,111 +453,6 @@
                         </div>
                 @endforeach
 
-                <!--Gallery Item-->
-                    <div class="gallery-item mix all office col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/2.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix all hospital reconstruction col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/3.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix all reconstruction residential col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/4.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix commercial education all col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/5.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix all reconstruction residential col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/6.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix all commercial education col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/7.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Gallery Item-->
-                    <div class="gallery-item mix commercial residential all col-lg-3 col-md-4 col-sm-6 col-xs-12">
-                        <div class="inner-box">
-                            <div class="image">
-                                <img src="images/gallery/8.jpg" alt="" />
-                                <div class="overlay-box">
-                                    <a href="#" class="overlay-link"></a>
-                                    <div class="content">
-                                        <h3><a href="#">Home Renovation</a></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>
@@ -557,33 +466,28 @@
                 <!--Image Column-->
                 <div class="image-column col-md-4 col-sm-12 col-xs-12">
                     <div class="image">
-                        <img src="images/sam11.png" alt="" />
+                        <img src="images/man.png" alt="" />
                     </div>
                 </div>
                 <!--Content Column-->
                 <div class="content-column col-md-8 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h2>A fully <span class="theme_color">Integrated</span> Construction Mechanical Service</h2>
+                        <h2>Caring  <span class="theme_color">For a</span> cleaner way to fly</h2>
                         <div class="text text-justify">
-                            <p> {{ env('APP_NAME') }} has been building {{ env('country') }} basement conversions and civil engineering projects for {{ env('exp') }} years.
-                                {{ env('ceo') }} has an amazing team of in-house architects, engineers, and construction managers.
-                                We have the best team to deliver your basement conversions.
 
-                                We are regularly audited by independent experts to ensure we hit the highest technical, and health & safety standards.
-                                We make a computer 3D model and simulation of the build. This help us to solve design issues before we even start on site.
-                                It is also useful to sequence every  basement conversion project and civil engineering project perfectly.
 
-                                {{ env('APP_NAME') }} has won many construction awards like Construction News ‘Contractor of the year’, the CN “Digital Contractor of the Year” and Ground Engineering Contractor of the Year.
-
+                            <p>Aviation shrinks the world. It brings different people and cultures closer together,
+                                but it comes with responsibility. It's why we set ourselves the mission to pioneer
+                                sustainable aerospace for a safe and united world.
+                                From the most fuel-efficient single-aisle airliner in operation today to the world's first zero emission aircraft,
+                                we're doing everything to make sure the world remains a beautiful place. </p>
+                            <p>
+                                We guide you on the path to Fuel savings with solutions that are as well supporting Decarbonisation.
+                                NAVBLUE and Airframe Services deploy fuel efficiency solutions during the flight and
+                                on the ground improving not only carbon footprint but also local air quality.</p>
+                                <p>The willingness to reduce the fuel consumption has the power to address two major
+                                    expectations: climate and costs.
                             </p>
-                            <p>Our construction company specialist waterproofing in-house team will design and install it all wrapped up in a 10-year insurance-backed guarantee.
-
-                                We deliver quality with a passion to world-wide basement conversion, building construction, and civil engineering project.
-
-                            </p>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.
-                                Override the digital divide with additional clickthroughs from DevOps.
-                                Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
                         </div>
                         <a href="{{ route('about') }}" class="theme-btn btn-style-two">Know more about us</a>
                     </div>
@@ -861,7 +765,7 @@
 <!--Renovation Section-->
 
 
-<section class="renovation-section" style="background-image:url(images/background/5.jpg)">
+<section class="renovation-section" style="background-image:url(images/ser/6.jpg)">
     <div class="auto-container">
         <h3>Great <span>Experience</span> for Building </h3>
         <h2>Construction & Renovation</h2>
