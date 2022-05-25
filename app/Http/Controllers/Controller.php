@@ -24,6 +24,46 @@ class Controller extends BaseController
     }
 
 
+    public function cServices()
+    {
+        $services = [
+            [
+                'name' => 'Repairs and Maintenance',
+                'info' => 'Aeroparts Consult is a multi-disciplinary group with broad interests, including research
+                and development of new technology, manufacture, operations (both military and civil) and regulation',
+            ],    [
+                'name' => 'Oil Maintenance',
+                'info' => 'As an aeronautical engineer we endure you use the appropriate Oil for your Aircraft. Our maintenance meets professional standards based on my professional expertise.',
+            ],   [
+                'name' => 'Contact / Support',
+                'info' => "
+Contact me for the best of service to ensure your Aircraft is well managed and maintained. support@aeropartsconsult.com
+I'm here to ensure you meet your need.",
+            ],
+            [
+                'name' => 'Private maintenance',
+                'info' => "We maintain private aircraft and ensure engine always show optimum performance.",
+            ],[
+                'name' => 'Flight Safety',
+                'info' => "Safety is a major concern in flight and thus a flight training on safety is a prerequisite to flying",
+            ],[
+                'name' => 'Overhauling and Painting',
+                'info' => "We partner with several companies in installing and fixing air plane parts for planes of all kind. we also fix and ensure
+flight safety and many others. Routine cleaning and general exterior maintenance will make the world of difference",
+            ],[
+                'name' => 'Flight Certification',
+                'info' => "We partner with several companies in installing and fixing air plane parts for planes of all kind. we also fix and ensure flight safety and many others.
+Routine cleaning and general exterior maintenance will make the world of difference and give certificate.",
+            ],[
+                'name' => 'Consultation',
+                'info' => "
+We help you make the right decisions in managing your aircraft and choosing the best private pilots to ensure you have safety in all your travel experience.",
+            ],
+        ];
+        return $services;
+            }
+
+
     public function services(){
         $Services = [
             [
@@ -76,19 +116,19 @@ class Controller extends BaseController
                 'img' => '/images/ser/12.jpg',
             ],
             [
-                'name' => 'construction project',
+                'name' => 'FLIGHT ENGINEER',
                 'type' => 'construction',
                 'img' => '/images/main-slider/3.png',
             ],       [
-                'name' => 'construction project',
+                'name' => 'FLIGHT ENGINEER',
                 'type' => 'construction',
                 'img' => '/images/main-slider/2.jpg',
             ],       [
-                'name' => 'construction project',
+                'name' => 'FLIGHT ENGINEER',
                 'type' => 'construction',
                 'img' => '/images/main-slider/3.png',
             ],   [
-                'name' => 'construction project',
+                'name' => 'FLIGHT ENGINEER',
                 'type' => 'construction',
                 'img' => '/images/main-slider/4.jpg',
             ],[

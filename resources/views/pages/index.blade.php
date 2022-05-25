@@ -216,6 +216,11 @@
     </section>
     <!--End Main Slider-->
 
+
+
+
+
+
     <!--Services Section-->
     <section class="services-section">
         <div class="auto-container">
@@ -293,11 +298,200 @@
     </section>
     <!--End Services Section-->
 
+
+
+    <!--Contruction Section-->
+    <section class="contruction-section" style="background-image:url(images/background/3.png)">
+        <div class="auto-container">
+            <div class="row clearfix">
+                <!--Image Column-->
+                <div class="image-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="image">
+                        <img src="images/men2.jpg" alt="" />
+                    </div>
+                </div>
+                <!--Content Column-->
+                <div class="content-column col-md-8 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <h2 class="text-uppercase">PROFESSIONAL BEHIND {{ env('APP_NAME') }} ({{ env('ceo') }})</h2>
+
+                        <div class="text text-justify">
+
+
+                            <p>Applying aircraft safety for our repairs and maintenance and oiling of engines and others.</p>
+                            <p>
+                                Your first choice expert to call for anything maintenance and servicing of any private Aircraft. As an Aircraft engineer,
+                                I render the best of service required to keep your aircraft in proper safety and maintenance along with handling total over hauling. </p>
+                        </div>
+
+                        <div class="row clearfix fact-counter about p-2">
+
+                            <!--Column-->
+                            <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                <div class="inner">
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="2000" data-stop="{{ env('exp') }}">0</span>
+                                    </div>
+                                    <h4 class="counter-title">Years of Experience</h4>
+                                </div>
+                            </div>
+
+                            <!--Column-->
+                            <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                <div class="inner">
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="2500" data-stop="{{ env('active_projects') }}">0</span>+
+                                    </div>
+                                    <h4 class="counter-title">Successful Projects</h4>
+                                </div>
+                            </div>
+
+                            <!--Column-->
+                            <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                <div class="inner">
+                                    <div class="count-outer count-box">
+                                        <span class="count-text" data-speed="3000" data-stop="{{ env('satisfied_clients') }}">0</span>
+                                    </div>
+                                    <h4 class="counter-title">Satisfied Customers</h4>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <a href="{{ route('about') }}" class="theme-btn btn-style-two">Know more about {{ env('ceo') }}</a>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Contruction Section-->
+
+
+
     <!--Services Section Two-->
     <section class="services-section-two" style="background-image:url(images/background/1.png)">
         <div class="auto-container">
             <div class="sec-title">
-                <h2>Our Services</h2>
+                <h2>Our Expertise</h2>
+                <div class="text">
+
+                    From traditional, single main rotor helicopters to small,
+                    multirotor drones, aeropartsconsult provides a number of unique challenges regarding simulation –
+                    whether the focus of simulation is to support training, research, engineering, or something else.
+                </div>
+            </div>
+            <div class="four-item-carousel owl-carousel owl-theme">
+
+                <!--Services Block Two-->
+                @foreach($c_services as $item)
+                    <div class="service-block-two">
+                        <div class="inner-box">
+                            <div class="flip-container" >
+                                <div class="flipper">
+                                    <div class="front">
+
+                                        <h3>{{ $item['name'] }}</h3>
+                                        <div class="text">{{ $item['info'] }}.</div>
+                                    </div>
+
+                                    <div class="back">
+                                        <div class="overlay-box">
+                                            <div class="overlay-inner">
+                                                <div class="overlay-content">
+                                                    <h4><a href="">{{ $item['name'] }};</a></h4>
+                                                    <div class="overlay-text">{{ $item['info'] }}</div>
+                                                    <a href="{{ route('services') }}" class="read-more">Read more</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+
+
+            </div>
+        </div>
+    </section>
+    <!--End Services Section Two-->
+
+
+
+    <!--Counter Section-->
+    <section class="counter-section" style="background-image:url(images/background/2.jpg)">
+        <div class="auto-container">
+            <div class="row clearfix">
+
+                <!--Image Column-->
+                <div class="image-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="image">
+                        <img src="images/resource/image-1.png" alt="" />
+                    </div>
+                </div>
+
+                <!--Counter Column-->
+                <div class="counter-column col-md-6 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <h2>Why work with us </h2>
+                        <div class="text">Our expertise is more than {{ env('exp') }} years in aircraft,
+                            maintenance and consultation, and have trained more than 240 pilots and
+                            engineers meet their flight career prospect</div>
+
+                        <div class="fact-counter">
+
+                            <div class="row clearfix">
+
+                                <!--Column-->
+                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                    <div class="inner">
+                                        <div class="count-outer count-box">
+                                            <span class="count-text" data-speed="2000" data-stop="{{ env('exp') }}">0</span>
+                                        </div>
+                                        <h4 class="counter-title">Years of Experience</h4>
+                                    </div>
+                                </div>
+
+                                <!--Column-->
+                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                    <div class="inner">
+                                        <div class="count-outer count-box">
+                                            <span class="count-text" data-speed="2500" data-stop="{{ env('active_projects') }}">0</span>+
+                                        </div>
+                                        <h4 class="counter-title">Successful Projects</h4>
+                                    </div>
+                                </div>
+
+                                <!--Column-->
+                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
+                                    <div class="inner">
+                                        <div class="count-outer count-box">
+                                            <span class="count-text" data-speed="3000" data-stop="{{ env('satisfied_clients') }}">0</span>
+                                        </div>
+                                        <h4 class="counter-title">Satisfied Customers</h4>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--End Counter Section-->
+
+
+    <!--Services Section Two-->
+    <section class="services-section-two" style="background-image:url(images/background/1.png)">
+        <div class="auto-container">
+            <div class="sec-title">
+                <h2>{{ env('APP_NAME') }} Other Services</h2>
                 <div class="text">
 
                     {{ env("APP_NAME") }} Services purpose is to further enhance safety in the aviation industry,
@@ -347,68 +541,6 @@
     </section>
     <!--End Services Section Two-->
 
-    <!--Counter Section-->
-    <section class="counter-section" style="background-image:url(images/background/2.jpg)">
-        <div class="auto-container">
-            <div class="row clearfix">
-
-                <!--Image Column-->
-                <div class="image-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="image">
-                        <img src="images/resource/image-1.png" alt="" />
-                    </div>
-                </div>
-
-                <!--Counter Column-->
-                <div class="counter-column col-md-6 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <h2>Why work with us </h2>
-                        <div class="text">We deliver quality with a passion to every {{ env('country') }} basement conversion, building construction,
-                            and civil engineering project.</div>
-
-                        <div class="fact-counter">
-
-                            <div class="row clearfix">
-
-                                <!--Column-->
-                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
-                                    <div class="inner">
-                                        <div class="count-outer count-box">
-                                            <span class="count-text" data-speed="2000" data-stop="{{ env('exp') }}">0</span>
-                                        </div>
-                                        <h4 class="counter-title">Years of Experience</h4>
-                                    </div>
-                                </div>
-
-                                <!--Column-->
-                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
-                                    <div class="inner">
-                                        <div class="count-outer count-box">
-                                            <span class="count-text" data-speed="2500" data-stop="{{ env('active_projects') }}">0</span>+
-                                        </div>
-                                        <h4 class="counter-title">Successful Projects</h4>
-                                    </div>
-                                </div>
-
-                                <!--Column-->
-                                <div class="column counter-column col-md-4 col-sm-4 col-xs-12">
-                                    <div class="inner">
-                                        <div class="count-outer count-box">
-                                            <span class="count-text" data-speed="3000" data-stop="{{ env('satisfied_clients') }}">0</span>
-                                        </div>
-                                        <h4 class="counter-title">Satisfied Customers</h4>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!--End Counter Section-->
 
     <!--Gallery Section-->
     <section class="gallery-section">
@@ -472,24 +604,26 @@
                 <!--Content Column-->
                 <div class="content-column col-md-8 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h2>Caring  <span class="theme_color">For a</span> cleaner way to fly</h2>
+                        <h2>Area of Specialization</h2>
                         <div class="text text-justify">
 
-
-                            <p>Aviation shrinks the world. It brings different people and cultures closer together,
-                                but it comes with responsibility. It's why we set ourselves the mission to pioneer
-                                sustainable aerospace for a safe and united world.
-                                From the most fuel-efficient single-aisle airliner in operation today to the world's first zero emission aircraft,
-                                we're doing everything to make sure the world remains a beautiful place. </p>
                             <p>
-                                We guide you on the path to Fuel savings with solutions that are as well supporting Decarbonisation.
-                                NAVBLUE and Airframe Services deploy fuel efficiency solutions during the flight and
-                                on the ground improving not only carbon footprint but also local air quality.</p>
-                                <p>The willingness to reduce the fuel consumption has the power to address two major
-                                    expectations: climate and costs.
+                                We guarantee a supportive and friendly environment with a motivating professional team. This is how we are able to innovate, restructure and redesign aircraft to fly more safe and efficient.
+                                Aircraft maintenance subscribed to my maintenance are queued in weekly for checks and rechecks.
                             </p>
                         </div>
-                        <a href="{{ route('about') }}" class="theme-btn btn-style-two">Know more about us</a>
+{{--                        <a href="{{ route('about') }}" class="theme-btn btn-style-two">Know more about us</a>--}}
+
+                        <h2>Aircraft Specialist</h2>
+                        <div class="text text-justify">
+                        We bring the swift maintenance for all Aircrafts and ensure maintenance are
+                            carried out with standard protocol in place to ensure safety.</div>
+
+                        <h2> Aircraft Consultant</h2>
+                        <div class="text text-justify">
+
+                            We ensure flight safety and maintenance are properly
+                            managed in the hanger. We also give flight traveling tips and training for certified pilots.</div>
                     </div>
                 </div>
             </div>
@@ -503,7 +637,10 @@
             <div class="row clearfix">
 
                 <div class="column col-md-9 col-sm-12 col-xs-12">
-                    <h2>Looking For a 100% <span>Quality</span> And <span>Affordable</span> Constructor For Your Project?</h2>
+                    <h2>
+                        For more inquiry please endeavor to write us and let us know how we can be
+                        of assistance and we would get back to you as soon as possible.
+                    </h2>
                 </div>
 
                 <div class="btn-column col-md-3 col-sm-12 col-xs-12">
@@ -527,27 +664,17 @@
             </div>
             <div class="two-item-carousel owl-carousel owl-theme">
 
-                <!--Testimonial Block-->
-                <div class="testimonial-block">
-                    <div class="inner-box">
-                        <div class="image">
-                            <img src="images/resource/author-1.jpg" alt="" />
-                        </div>
-                        <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative proaches to corporate strategy foster collabo rative thinking to further the overall value </div>
-                        <div class="author-name">-  Michale William</div>
-                        <div class="author-designation">Ceo of Mart</div>
-                    </div>
-                </div>
 
-                <!--Testimonial Block-->
                 <div class="testimonial-block">
                     <div class="inner-box">
                         <div class="image">
-                            <img src="images/resource/author-2.jpg" alt="" />
+                            <img src="images/test.jpg" alt="" />
                         </div>
-                        <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative proaches to corporate strategy foster collabo rative thinking to further the overall value </div>
-                        <div class="author-name">-  Michale William</div>
-                        <div class="author-designation">Ceo of Mart</div>
+                        <div class="text">I have dealt with multiple professional organizations over the last 45 years.
+                            But only a few of them performed to the level of dedication, responsiveness, thoroughness, diligence, and customer focus that yours has.  Thanks again for your support.
+                            Please pass along my appreciation for a job well done to all that helped me through this process. </div>
+                        <div class="author-name">- JJ Suarez, Ohio</div>
+                        {{--                        <div class="author-designation">Ceo of Mart</div>--}}
                     </div>
                 </div>
 
@@ -557,9 +684,14 @@
                         <div class="image">
                             <img src="images/resource/author-1.jpg" alt="" />
                         </div>
-                        <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative proaches to corporate strategy foster collabo rative thinking to further the overall value </div>
-                        <div class="author-name">-  Michale William</div>
-                        <div class="author-designation">Ceo of Mart</div>
+                        <div class="text">It was classic maintaining my Aircraft with Aero parts Consult.
+                            The response was  VFR fast and effectively. Thank you!
+
+                        </div>
+                        <div class="author-name">-  Blaine Sweatt, Florida
+
+                        </div>
+{{--                        <div class="author-designation">Ceo of Mart</div>--}}
                     </div>
                 </div>
 
@@ -569,11 +701,29 @@
                         <div class="image">
                             <img src="images/resource/author-2.jpg" alt="" />
                         </div>
-                        <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative proaches to corporate strategy foster collabo rative thinking to further the overall value </div>
-                        <div class="author-name">-  Michale William</div>
-                        <div class="author-designation">Ceo of Mart</div>
+                        <div class="text">My company was finally able to get a well informed engineer after series of troubles
+                            finding an Aeronautical Engineer
+                        </div>
+                        <div class="author-name">- Malte Lorenz, New York</div>
+{{--                        <div class="author-designation">Ceo of Mart</div>--}}
                     </div>
                 </div>
+
+                <!--Testimonial Block-->
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="image">
+                            <img src="images/resource/author-1.jpg" alt="" />
+                        </div>
+                        <div class="text">Thanks to this awesome engineer.  He was able to do my Aircraft repainting
+                            and oil changing. You are great! </div>
+                        <div class="author-name">-  Paul Teirstein, MD, California</div>
+{{--                        <div class="author-designation">Ceo of Mart</div>--}}
+                    </div>
+                </div>
+
+                <!--Testimonial Block-->
+
 
             </div>
         </div>
@@ -771,8 +921,11 @@
 
 <section class="renovation-section" style="background-image:url(images/ser/6.jpg)">
     <div class="auto-container">
-        <h3>Great <span>Experience</span> for Building </h3>
-        <h2>Construction & Renovation</h2>
+        <h3> <span>{{ env('exp') }}</span> YEARS AS AN EXPERT AERONAUTICAL ENGINEER </h3>
+        <h2>NEXT Generation Aircraft Consultant
+        </h2>
+        <p style="color: white" class="text-white">As an independent contractor we ensure that individuals are able to manage their aircraft
+            and do the necessary repairs for their Aircrafts. Contact us today so we can see how we can be of help. </p>
         <a href="{{ route('contact') }}" class="theme-btn btn-style-one">Contact us now</a>
     </div>
 </section>

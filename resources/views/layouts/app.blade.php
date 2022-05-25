@@ -31,6 +31,19 @@
         .fact-counter .count-outer .count-text {
             color: #fff;
         }
+
+
+        .about {
+            padding: 10px;
+        }
+
+        .about .counter-column {
+            padding : 10px;
+            margin: 10px 5px;
+            border: 1px solid;
+            background-color: #2098d1;
+            border-radius: 20px;
+        }
     </style>
 </head>
 
@@ -196,10 +209,8 @@
                                     </div>
                                     <div class="text">
 
-                                        Setting the standard for modern aviation is a top priority for {{ env('APP_NAME') }}.
-                                        Making it safer, cleaner and more fuel-efficient thanks to our products,
-                                        services and customer care, while ensuring our customers'
-                                        needs are covered all over the world is our commitment.
+                                        {{ env('APP_NAME') }} is an independent Aircraft
+                                        repair and maintenance aeronautical service rending company for plane and private owned Aircraft.
 
                                     </div>
 

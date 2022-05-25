@@ -8,8 +8,9 @@ class PagesController extends Controller
 {
     public function index(){
         $services = $this->services();
+        $c_services = $this->cServices();
         $projects = $this->projectImgs();
-        return view('pages.index',compact('services','projects'));
+        return view('pages.index',compact('services','projects','c_services'));
     }
 
     public function service()
