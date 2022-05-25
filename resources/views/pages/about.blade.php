@@ -29,7 +29,7 @@
                 <!--Content Column-->
                 <div class="content-column col-md-8 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <h2 class="text-uppercase">PROFESSIONAL BEHIND {{ env('APP_NAME') }} ({{ env('ceo') }})</h2>
+{{--                        <h2 class="text-uppercase">PROFESSIONAL BEHIND {{ env('APP_NAME') }} ({{ env('ceo') }})</h2>--}}
 
                         <div class="text text-justify">
 
