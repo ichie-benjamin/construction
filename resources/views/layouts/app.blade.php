@@ -123,7 +123,7 @@
                 <div class="sticky-inner-container clearfix">
                     <!--Logo-->
                     <div class="logo pull-left">
-                        <a href="{{ route('home') }}" class="img-responsive"><img src="/images/logo_new.png" alt="" title=""></a>
+                        <a href="{{ route('home') }}" class="img-responsive"><img src="/images/logo_n.png" alt="" title=""></a>
                     </div>
 
                     <!--Right Col-->
