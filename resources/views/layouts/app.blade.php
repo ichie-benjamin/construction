@@ -1,361 +1,300 @@
+<!doctype html>
+<html lang="en-US">
 
-<!DOCTYPE html>
-<html>
 <head>
-    <meta charset="utf-8">
-    <title>{{ env('APP_NAME') }}</title>
-    <!-- Stylesheets -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
-    <link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
-    <link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
 
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
-    <!-- Responsive -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-    <!--[if lt IE 9]><script src="/js/respond.js"></script><![endif]-->
-
-    <style>
-        .call-to-action-section h2 {
-            color: #fff;
-        }
-        .counter-section .counter-column h2 {
-            color: #fff;
-        }
-        .fact-counter .count-outer .count-text {
-            color: #fff;
-        }
-
-
-        .about {
-            padding: 10px;
-        }
-
-        .about .counter-column {
-            padding : 10px;
-            margin: 10px 5px;
-            border: 1px solid;
-            background-color: #2098d1;
-            border-radius: 20px;
-        }
-        .projects {
-            padding: 0 50px!important;
-        }
-        .projects h3 {
-            color: white!important;
-            margin: 5px 0px;
-        }
-        .services-section .title-column .styled-text {
-            font-style: normal;
-        }
-
-        .testimonial-block {
-            border-radius: 10px;
-            background-color: #ffffff;
-            margin-bottom: 20px;
-            padding: 10px 5px;
+    <title>{{ env('APP_NAME') }} | {{ env('APP_NAME') }} is into flight training and sale of aircraft accessories and parts with over {{ env('exp') }} YEARS of consistency and professionalism</title>
+    <meta name='robots' content='max-image-preview:large' />
+    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <script type="text/javascript">
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aeropartsconsult.com\/home\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0"}};
+        /*! This file is auto-generated */
+        !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 0.07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
         }
     </style>
+    <link rel='stylesheet' id='wp-block-library-css'  href='/css/dist/block-library/style.minf049.css?ver=6.0' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dashicons-css'  href='/css/dashicons.minf049.css?ver=6.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='everest-forms-general-css'  href='/plugins/everest-forms/assets/css/everest-forms1a7b.css?ver=1.7.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css'  href='/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='zakra-style-css'  href='/themes/zakra/stylef049.css?ver=6.0' type='text/css' media='all' />
+    <style id='zakra-style-inline-css' type='text/css'>
+        @media screen and (min-width:1200px){.tg-container{max-width:Arraypx;}}#primary{width:Array%;}a:hover, a:focus, .tg-primary-menu > div ul li:hover > a,  .tg-primary-menu > div ul li.current_page_item > a, .tg-primary-menu > div ul li.current-menu-item > a,  .tg-mobile-navigation > div ul li.current_page_item > a, .tg-mobile-navigation > div ul li.current-menu-item > a,  .entry-content a,  .tg-meta-style-two .entry-meta span, .tg-meta-style-two .entry-meta a{color:#ffb716;}.tg-primary-menu.tg-primary-menu--style-underline > div > ul > li.current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-underline > div > ul > li.current-menu-item > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div > ul > li.current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div > ul > li.current-menu-item > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div > ul > li.current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div > ul > li.current-menu-item > a::before, .tg-scroll-to-top:hover, button, input[type="button"], input[type="reset"], input[type="submit"], .tg-primary-menu > div ul li.tg-header-button-wrap a{background-color:#ffb716;}body{color:#7a7a7a;}body{font-family:Montserrat;font-weight:400;}h1, h2, h3, h4, h5, h6{font-family:Raleway;font-weight:600;}h1{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}h2{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}h3{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}h4{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}h5{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}h6{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, #infinite-handle span:hover{background-color:#1e7ba6;}.tg-site-header .tg-site-header-top{color:#ffffff;}.tg-site-header .tg-site-header-top{background-color:#ffb716;background-size:contain;}.tg-site-header, .tg-container--separate .tg-site-header{background-size:contain;}.main-navigation.tg-primary-menu > div ul li.tg-header-button-wrap a:hover{background-color:#1e7ba6;}.tg-site-header .main-navigation{border-bottom-width:Arraypx;}.tg-primary-menu > div > ul li:not(.tg-header-button-wrap):hover > a{color:#ffb716;}.tg-primary-menu > div ul li:active > a, .tg-primary-menu > div ul > li:not(.tg-header-button-wrap).current_page_item > a, .tg-primary-menu > div ul > li:not(.tg-header-button-wrap).current_page_ancestor > a, .tg-primary-menu > div ul > li:not(.tg-header-button-wrap).current-menu-item > a, .tg-primary-menu > div ul > li:not(.tg-header-button-wrap).current-menu-ancestor > a{color:#ffb716;}.tg-primary-menu.tg-primary-menu--style-underline > div ul > li:not(.tg-header-button-wrap).current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-underline > div ul > li:not(.tg-header-button-wrap).current_page_ancestor > a::before, .tg-primary-menu.tg-primary-menu--style-underline > div ul > li:not(.tg-header-button-wrap).current-menu-item > a::before, .tg-primary-menu.tg-primary-menu--style-underline > div ul > li:not(.tg-header-button-wrap).current-menu-ancestor > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div ul > li:not(.tg-header-button-wrap).current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div ul > li:not(.tg-header-button-wrap).current_page_ancestor > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div ul > li:not(.tg-header-button-wrap).current-menu-item > a::before, .tg-primary-menu.tg-primary-menu--style-left-border > div ul > li:not(.tg-header-button-wrap).current-menu-ancestor > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div ul > li:not(.tg-header-button-wrap).current_page_item > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div ul > li:not(.tg-header-button-wrap).current_page_ancestor > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div ul > li:not(.tg-header-button-wrap).current-menu-item > a::before, .tg-primary-menu.tg-primary-menu--style-right-border > div ul > li:not(.tg-header-button-wrap).current-menu-ancestor > a::before{background-color:#ffb716;}.tg-page-header{padding-top:30px;padding-bottom:30px;}.tg-page-header, .tg-container--separate .tg-page-header{background-color:#eaf6fa;background-position:center center;background-size:contain;}.tg-page-header .breadcrumb-trail ul li{color:#5b5b5b;}.tg-page-header .breadcrumb-trail ul li::after{color:#7b7b7b;}.tg-page-header .breadcrumb-trail ul li a{color:#000000;}.tg-page-header .breadcrumb-trail ul li a:hover {color:#ffb716;}.tg-page-header .tg-page-header__title, .tg-page-content__title{font-family:-apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen-sans, ubuntu, cantarell, helvetica neue, helvetica, arial, sans-serif;}.tg-site-footer-widgets{background-color:#081726;}.tg-site-footer .tg-site-footer-widgets .widget-title{color:#ffb716;}.tg-site-footer .tg-site-footer-widgets, .tg-site-footer .tg-site-footer-widgets p{color:#cccccc;}.tg-site-footer .tg-site-footer-widgets a{color:#ffffff;}.tg-site-footer .tg-site-footer-widgets a:hover, .tg-site-footer .tg-site-footer-widgets a:focus{color:#ffb716;}.tg-site-footer .tg-site-footer-widgets ul li{border-bottom-width:Arraypx;}.tg-site-footer .tg-site-footer-widgets ul li{border-bottom-color:#282d22;}.tg-site-footer .tg-site-footer-bar{background-color:#081726;}.tg-site-footer .tg-site-footer-bar{color:#cccccc;}.tg-site-footer .tg-site-footer-bar a{color:#ffffff;}.tg-site-footer .tg-site-footer-bar a:hover, .tg-site-footer .tg-site-footer-bar a:focus{color:#ffb716;}
+    </style>
+    <link rel='stylesheet' id='zakra_googlefonts-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%7CRaleway%3A600%7C-apple-system%3A500&amp;1&amp;display=swap&amp;ver=2.0.9' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'  href='/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb683.css?ver=5.12.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'  href='/plugins/elementor/assets/css/frontend.minedb1.css?ver=3.4.4' type='text/css' media='all' />
+    <style id='elementor-frontend-inline-css' type='text/css'>
+        @font-face{font-family:eicons;src:url(/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(//plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(//plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(//plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(//plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(//plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+    </style>
+    <link rel='stylesheet' id='elementor-post-1011-css'  href='/uploads/elementor/css/post-1011db0a.css?ver=1631793920' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-5-all-css'  href='/plugins/elementor/assets/lib/font-awesome/css/all.minedb1.css?ver=3.4.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-4-shim-css'  href='/plugins/elementor/assets/lib/font-awesome/css/v4-shims.minedb1.css?ver=3.4.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-global-css'  href='/uploads/elementor/css/global77ca.css?ver=1631793921' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-24-css'  href='/uploads/elementor/css/post-241aee.css?ver=1649463753' type='text/css' media='all' />
+    <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CArchitects+Daughter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+    <script type='text/javascript' src='/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minedb1.js?ver=3.4.4' id='font-awesome-4-shim-js'></script>
+
+     <style type="text/css">
+        .site-title,
+        .site-description {
+            position: absolute;
+            clip: rect(1px, 1px, 1px, 1px);
+        }
+
+    </style>
+    <style type="text/css" id="wp-custom-css">
+        .header-bar-social-icons {
+            float: right;
+        }
+        .header-bar-social-icons a {
+            color: #ffffff;
+        }		</style>
+
 </head>
+<body class="page-template-default page page-id-613 wp-custom-logo everest-forms-no-js tg-site-layout--stretched tg-container--wide has-page-header has-breadcrumbs elementor-default elementor-kit-1011 elementor-page elementor-page-613">
 
-<body>
+{{--<body class="home page-template-default page page-id-24 wp-custom-logo everest-forms-no-js tg-site-layout--stretched tg-container--wide has-page-header has-breadcrumbs elementor-default elementor-kit-1011 elementor-page elementor-page-24">--}}
 
-<div class="page-wrapper">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<div id="page" class="site tg-site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-{{--    <!-- Preloader -->--}}
-{{--    <div class="preloader"></div>--}}
+    <header id="masthead" class="site-header tg-site-header tg-site-header--left">
 
-<!-- Main Header-->
-    <header class="main-header header-style-one">
 
-        <!-- Header Top -->
-        <div class="header-top">
-            <div class="auto-container">
-                <div class="inner-container clearfix">
+        <div class="tg-site-header-top">
+            <div class="tg-header-container tg-container tg-container--flex tg-container--flex-center">
+                <div class="tg-header-top-left-content">
 
-                    <!--Top Left-->
-                    <div class="top-left">
-                        <ul class="links clearfix">
-                            <li><a href="#"><span class="icon fa fa-phone"></span>{{ env('phone') }}</a></li>
-                            <li><a href="#"><span class="icon fa fa-envelope-o"></span>{{ env('email') }}</a></li>
-                        </ul>
-                    </div>
-
-                    <!--Top Right-->
-                    <div class="top-right clearfix">
-                        <!--social-icon-->
-                        <div class="social-icon">
-
-                        </div>
-                    </div>
-
+                    <p><i class="fa fa-volume-control-phone"></i> {{ env('address') }} 9:00 - 18:00 (Mon - Fri)</p>
                 </div>
+                <!-- /.tg-header-top-left-content -->
+                <div class="tg-header-top-right-content">
 
+                    <div class="header-bar-social-icons"><i class="fa fa-facebook"></i>   <i class="fa fa-twitter"></i> <i class="fa fa-linkedin"></i>      Email:  {{ env('email') }}</div>
+                </div>
+                <!-- /.tg-header-top-right-content -->
             </div>
+            <!-- /.tg-container -->
         </div>
-        <!-- Header Top End -->
+        <!-- /.tg-site-header-top -->
 
-        <!-- Main Box -->
-        <div class="main-box">
-            <div class="auto-container">
-                <div class="outer-container clearfix">
-                    <!--Logo Box-->
-                    <div class="logo-box">
-                        <div class="logo"><a href="{{ route('home') }}"><img src="/images/logo_new.png" alt=""></a></div>
-                    </div>
 
-                    <!--Nav Outer-->
-                    <div class="nav-outer clearfix">
 
-                        <!-- Main Menu -->
-                        <nav class="main-menu">
-                            <div class="navbar-header">
-                                <!-- Toggle Button -->
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
+        <div class="tg-site-header-bottom">
+            <div class="tg-header-container tg-container tg-container--flex tg-container--flex-center tg-container--flex-space-between">
+
+
+                <div class="tg-block tg-block--one">
+
+                    <div class="site-branding">
+                        <a href="/" class="custom-logo-link" rel="home" aria-current="page"><img width="300" height="77" src="/img/logo_n.png" class="custom-logo" alt="{{ env('APP_NAME') }}" /></a>			<div class="site-info-wrap">
+                            <p class="site-title">
+                                <a href="/" rel="home">{{ env('APP_NAME') }}</a>
+                            </p>
+                            <p class="site-description">{{ env('APP_NAME') }} is into flight training and sale of aircraft accessories and parts with over {{ env('exp') }} YEARS of consistency and professionalism</p>
+                        </div>
+
+                    </div><!-- .site-branding -->
+
+                </div> <!-- /.tg-site-header__block--one -->
+
+
+                <div class="tg-block tg-block--two">
+
+                    <nav id="site-navigation" class="main-navigation tg-primary-menu tg-primary-menu--style-none">
+                        <div class="menu"><ul id="primary-menu" class="menu-primary"><li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-1033"><a href="/" aria-current="page">HOME</a></li>
+                                <li id="menu-item-1026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="about//">ABOUT</a></li>
+                                <li id="menu-item-1025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="single-project//">SERVICES</a></li>
+                                <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="contact//">CONTACT</a></li>
+                                <li class="menu-item tg-menu-item tg-menu-item-search"><a href="#"  ><i class="tg-icon tg-icon-search"></i></a><form role="search" method="get" class="search-form" action="/home/">
+                                        <label>
+                                            <span class="screen-reader-text">Search for:</span>
+                                            <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                        </label>
+                                        <input type="submit" class="search-submit" value="Search" />
+                                    </form></li><!-- /.tg-header-search --></ul></div>		</nav><!-- #site-navigation -->
+                    <nav id="header-action" class="tg-header-action">
+                        <ul class="tg-header-action-list">
+                            <li class="tg-header-action__item tg-mobile-toggle" >
+                                <button aria-label="Primary Menu" >
+                                    <i class="tg-icon tg-icon-bars"></i>
                                 </button>
+                            </li><!-- /.tg-mobile-toggle -->
+                        </ul><!-- /.zakra-header-action-list -->
+                    </nav><!-- #header-action -->
+                    <nav id="mobile-navigation" class="tg-mobile-navigation"
+                    >
+
+                        <div class="menu-main-menu-container"><ul id="mobile-primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-1033"><a href="/" aria-current="page">HOME</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="about//">ABOUT</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="single-project//">SERVICES</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="contact//">CONTACT</a></li>
+                                <li class="menu-item tg-menu-item tg-menu-item-search"><a href="#"  ><i class="tg-icon tg-icon-search"></i></a><form role="search" method="get" class="search-form" action="/home/">
+                                        <label>
+                                            <span class="screen-reader-text">Search for:</span>
+                                            <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                        </label>
+                                        <input type="submit" class="search-submit" value="Search" />
+                                    </form></li><!-- /.tg-header-search --></ul></div>
+                    </nav><!-- /#mobile-navigation-->
+
+                </div> <!-- /.tg-site-header__block-two -->
+
+
+            </div>
+            <!-- /.tg-container -->
+        </div>
+        <!-- /.tg-site-header-bottom -->
+
+    </header><!-- #masthead -->
+
+
+
+    @yield('content')
+
+
+
+
+
+    <footer id="colophon" class="site-footer tg-site-footer ">
+
+
+        <div class="tg-site-footer-widgets">
+            <div class="tg-container">
+
+                <div class="tg-footer-widget-container tg-footer-widget-col--four">
+                    <div class="tg-footer-widget-area footer-sidebar-1">
+                        <section id="text-2" class="widget widget_text"><h2 class="widget-title">{{ env('APP_NAME') }}</h2>
+                            <div class="textwidget"><p>
+                                    <img loading="lazy" class="alignnone wp-image-1349 size-full" src="/img/logo.png" alt="" width="239" height="95" />
+                                {{ env('APP_NAME') }} is an independent Aircraft repair and maintenance aeronautical service rending company for plane and private owned Aircraft.</p>
                             </div>
-
-                            <div class="navbar-collapse collapse clearfix">
-                                <ul class="navigation clearfix">
-                                    <li><a href="{{ route('home') }}">Home </a></li>
-                                    <li><a href="{{ route('about') }}">About </a></li>
-                                    <li><a href="{{ route('services') }}">Services </a></li>
-                                    <li><a href="{{ route('projects') }}">Projects </a></li>
-                                    <li><a href="{{ route('contact') }}">Contact Us </a></li>
-
-                                </ul>
+                        </section>									</div>
+                    <div class="tg-footer-widget-area footer-sidebar-2">
+                        <section id="block-8" class="widget widget_block">
+                            <div class="wp-container-1 wp-block-group"><div class="wp-block-group__inner-container">
+                                    <blockquote class="wp-block-quote"><p>Aeronautical Engineer</p></blockquote>
+                                </div></div>
+                        </section><section id="block-9" class="widget widget_block widget_text">
+                            <p>We ensure your Aircraft meet every flight specifications</p>
+                        </section>									</div>
+                    <div class="tg-footer-widget-area footer-sidebar-3">
+                        <section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Information</h2>			<div class="textwidget"><p><i class="fa fa-volume-control-phone"></i>+1 (309) 789 9111</p>
+                                <p>{{ env('address') }}</p>
+                                <p>McLean county<br />
+                                    <i class="fa fa-clock-o"></i> 9:00 &#8211; 18:00 (Mon &#8211; Fri)<br />
+                                    <i class="fa fa-envelope-o"></i> {{ env('email') }}<br />
+{{--                                    <i class="fa fa-envelope-o"></i> info@aeropartsconsult.com</p>--}}
                             </div>
-                        </nav>
-                        <!-- Main Menu End-->
-                        <div class="outer-box">
-                            <!--Search Box-->
+                        </section>									</div>
+                    <div class="tg-footer-widget-area footer-sidebar-4">
+                        <section id="nav_menu-1" class="widget widget_nav_menu"><h2 class="widget-title">Useful Pages</h2><div class="menu-useful-pages-container"><ul id="menu-useful-pages" class="menu"><li id="menu-item-1143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-24 current_page_item menu-item-1143"><a href="/" aria-current="page">Home</a></li>
+                                    <li id="menu-item-1144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a href="about//">About</a></li>
+                                    <li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="single-project//">Services</a></li>
+                                    <li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="contact//">Contact</a></li>
+                                </ul></div></section>									</div>
+                </div> <!-- /.tg-footer-widget-container -->
+            </div><!-- /.tg-container-->
+        </div><!-- /.tg-site-footer-widgets -->
 
-                        </div>
-                    </div>
-                    <!--Nav Outer End-->
+
+
+        <div class="tg-site-footer-bar tg-site-footer-bar--center">
+            <div class="tg-container tg-container--flex tg-container--flex-top">
+                <div class="tg-site-footer-section-1">
+
+                    <p>Copyright © <strong>{{ env('APP_NAME') }}</strong></p>
+                </div>
+                <!-- /.tg-site-footer-section-1 -->
+
+                <div class="tg-site-footer-section-2">
+
 
                 </div>
+                <!-- /.tg-site-footer-section-2 -->
             </div>
+            <!-- /.tg-container-->
         </div>
-
-        <!--Sticky Header-->
-        <div class="sticky-header">
-            <div class="auto-container">
-                <div class="sticky-inner-container clearfix">
-                    <!--Logo-->
-                    <div class="logo pull-left">
-                        <a href="{{ route('home') }}" class="img-responsive"><img src="/images/logo_n.png" alt="" title=""></a>
-                    </div>
-
-                    <!--Right Col-->
-                    <div class="right-col pull-right">
-                        <!-- Main Menu -->
-                        <nav class="main-menu">
-                            <div class="navbar-header">
-                                <!-- Toggle Button -->
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                            </div>
-
-                            <div class="navbar-collapse collapse clearfix">
-                                <ul class="navigation clearfix">
-                                    <li><a href="{{ route('home') }}">Home </a></li>
-                                    <li><a href="{{ route('about') }}">About </a></li>
-                                    <li><a href="{{ route('services') }}">Services </a></li>
-                                    <li><a href="{{ route('projects') }}">Projects </a></li>
-                                    <li><a href="{{ route('contact') }}">Contact Us </a></li>
-
-                                </ul>
-                            </div>
-                        </nav>
-                        <!-- Main Menu End-->
+        <!-- /.tg-site-footer-bar -->
 
 
-                    </div>
+    </footer><!-- #colophon -->
 
-                </div>
-            </div>
-        </div>
-        <!--End Sticky Header-->
+</div><!-- #page -->
 
-    </header>
-    <!--End Main Header -->
+<a href="#" id="tg-scroll-to-top" class="tg-scroll-to-top">
+    <i class="tg-icon tg-icon-arrow-up">
+        <span class="screen-reader-text">Scroll to top</span>
+    </i>
+</a>
 
+<div class="tg-overlay-wrapper"></div>
 
-@yield('content')
-
-<!--Main Footer-->
-    <footer class="main-footer" style="background-image:url(images/background/6.jpg)">
-
-        <div class="auto-container">
-
-            <!--Upper Box-->
-            <div class="upper-box">
-                <ul class="list-style-one clearfix">
-                    <li><span class="icon flaticon-pin"></span>{{ env('address') }}, <br> {{ env('country') }}</li>
-                    <li><span class="icon flaticon-envelope-1"></span>Email us : <br>{{ env('email') }}</li>
-                    <li><span class="icon flaticon-technology-2"></span>Call us : <br> {{ env('phone') }}</li>
-                </ul>
-            </div>
-
-            <!--Widgets Section-->
-            <div class="widgets-section">
-                <div class="row clearfix">
-
-                    <!--big column-->
-                    <div class="big-column col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-
-                            <!--Footer Column-->
-                            <div class="footer-column col-md-7 col-sm-6 col-xs-12">
-                                <div class="footer-widget logo-widget">
-                                    <div class="logo">
-                                        <a href="{{ route('home') }}"><img src="images/logo.png" alt="" /></a>
-                                    </div>
-                                    <div class="text">
-
-                                        {{ env('APP_NAME') }} is an independent Aircraft
-                                        repair and maintenance aeronautical service rending company for plane and private owned Aircraft.
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <!--Footer Column-->
-                            <div class="footer-column col-md-5 col-sm-6 col-xs-12">
-                                <div class="footer-widget links-widget">
-                                    <h2>Quick Links</h2>
-                                    <div class="widget-content">
-                                        <ul class="list">
-                                            <li><a href="{{ route('about') }}">About Us</a></li>
-                                            <li><a href="{{ route('services') }}">Services</a></li>
-                                            <li><a href="">Projects</a></li>
-                                            <li><a href="{{ route('contact') }}">Contact Us</a></li>
-
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <!--big column-->
-                    <div class="big-column col-md-6 col-sm-12 col-xs-12">
-                        <div class="row clearfix">
-
-                            <!--Footer Column-->
-                            <div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                                <div class="footer-widget links-widget">
-                                    <h2>Our Services</h2>
-                                    <div class="widget-content">
-                                        <ul class="list">
-                                            <li><a href="{{ route('services') }}">Train</a></li>
-                                            <li><a href="{{ route('services') }}">Operate </a></li>
-                                            <li><a href="{{ route('services') }}">Maintain</a></li>
-                                            <li><a href="{{ route('services') }}">Enhance </a></li>
-                                            <li><a href="{{ route('services') }}">Expand </a></li>
-{{--                                            <li><a href="{{ route('services') }}">Malls and Event centers</a></li>--}}
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!--Footer Column-->
-                            <div class="footer-column col-md-6 col-sm-6 col-xs-12">
-                                <div class="footer-widget newsletter-widget">
-                                    <h2>Contact Us</h2>
-                                    <div class="widget-content">
-                                        <div class="text">Get to know more about {{ env('APP_NAME') }}</div>
-                                        <!--Emailed Form-->
-                                        <a href="{{ route('contact') }}"  class="theme-btn">Contact us</a>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="row clearfix">
-                    <div class="column col-md-6 col-sm-12 col-xs-12">
-                        <div class="copyright">Copyright &copy; {{ env('APP_NAME') }}. All rights reserved. </div>
-                    </div>
-                    {{--                    <div class="column col-md-6 col-sm-12 col-xs-12">--}}
-                    {{--                        <div class="created">Created by: ThemeArc</div>--}}
-                    {{--                    </div>--}}
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--End Main Footer-->
-
-</div>
-<!--End pagewrapper-->
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>
-
-<script src="/js/jquery.js"></script>
-<!--Revolution Slider-->
-<script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
-<script src="/js/main-slider-script.js"></script>
-
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/jquery.fancybox.js"></script>
-<script src="/js/mixitup.js"></script>
-<script src="/js/isotope.js"></script>
-
-<script src="/js/owl.js"></script>
-<script src="/js/wow.js"></script>
-<script src="/js/appear.js"></script>
-<script src="/js/script.js"></script>
-
-
-
-
-<!--Start of Tawk.to Script-->
+<!--Start of Tawk.to Script (0.5.5)-->
 <script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    var Tawk_API=Tawk_API||{};
+    var Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
         s1.async=true;
-        s1.src='https://embed.tawk.to/628e23c47b967b1179912a53/1g3tjneh5';
+        s1.src='https://embed.tawk.to/614368ebd326717cb681d498/1ffnl3m8g';
         s1.charset='UTF-8';
         s1.setAttribute('crossorigin','*');
         s0.parentNode.insertBefore(s1,s0);
     })();
 </script>
-<!--End of Tawk.to Script-->
+<!--End of Tawk.to Script (0.5.5)-->
+<script type="text/javascript">
+    var c = document.body.className;
+    c = c.replace( /everest-forms-no-js/, 'everest-forms-js' );
+    document.body.className = c;
+</script>
+<style>.wp-container-1 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-1 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-1 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
+<link rel='stylesheet' id='e-animations-css'  href='/plugins/elementor/assets/lib/animations/animations.minedb1.css?ver=3.4.4' type='text/css' media='all' />
+<script type='text/javascript' src='/themes/zakra/assets/js/navigation.min4a7d.js?ver=20151215' id='zakra-navigation-js'></script>
+<script type='text/javascript' src='/themes/zakra/assets/js/skip-link-focus-fix.min4a7d.js?ver=20151215' id='zakra-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='/themes/zakra/assets/js/zakra-custom.minf049.js?ver=6.0' id='zakra-custom-js'></script>
+<script type='text/javascript' src='/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1' id='jquery-numerator-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/js/webpack.runtime.minedb1.js?ver=3.4.4' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/js/frontend-modules.minedb1.js?ver=3.4.4' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='/js/jquery/ui/core.min0028.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/lib/share-link/share-link.minedb1.js?ver=3.4.4' id='share-link-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+    var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/aeropartsconsult.com\/home\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":24,"title":"Aeroparts%20Consult%20%E2%80%93%20Aeropart%20Consult%20is%20into%20flight%20training%20and%20sale%20of%20aircraft%20accessories%20and%20parts%20with%20over%2020%20years%20of%20consistency%20and%20professionalism","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='/plugins/elementor/assets/js/frontend.minedb1.js?ver=3.4.4' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='/plugins/elementor/assets/js/preloaded-modules.minedb1.js?ver=3.4.4' id='preloaded-modules-js'></script>
 
 </body>
+
 </html>
+
