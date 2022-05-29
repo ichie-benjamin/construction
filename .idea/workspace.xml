@@ -599,6 +599,8 @@
       <change beforePath="$PROJECT_DIR$/public/vendor/manthra/css/toastr.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/vendor/manthra/js/jquery.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/vendor/manthra/js/toastr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/crud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/crud.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/partials/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/partials/head.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/pages/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" afterDir="false" />
@@ -840,7 +842,7 @@
       <workItem from="1653418629295" duration="7126000" />
       <workItem from="1653462469246" duration="14293000" />
       <workItem from="1653493907044" duration="6261000" />
-      <workItem from="1653837614902" duration="12094000" />
+      <workItem from="1653837614902" duration="12456000" />
     </task>
     <servers />
   </component>

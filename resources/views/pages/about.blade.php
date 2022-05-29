@@ -12,8 +12,6 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
-    <link rel="alternate" type="application/rss+xml" title="{{ env('APP_NAME') }} &raquo; Feed" href="../feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="{{ env('APP_NAME') }} &raquo; Comments Feed" href="../comments/feed/index.html" />
     <script type="text/javascript">
         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aeropartsconsult.com\/home\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0"}};
         /*! This file is auto-generated */
@@ -63,14 +61,10 @@
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
     <script type='text/javascript' src='/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minedb1.js?ver=3.4.4' id='font-awesome-4-shim-js'></script>
-    <link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/613.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 6.0" />
+   <meta name="generator" content="WordPress 6.0" />
     <meta name="generator" content="Everest Forms 1.7.7" />
-    <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='../index44fb.html?p=613' />
+
     <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedee71.json?url=https%3A%2F%2Faeropartsconsult.com%2Fhome%2Fabout%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed46c2?url=https%3A%2F%2Faeropartsconsult.com%2Fhome%2Fabout%2F&amp;format=xml" />
     <style type="text/css">
         .site-title,
         .site-description {
@@ -145,8 +139,8 @@
 
                     <nav id="site-navigation" class="main-navigation tg-primary-menu tg-primary-menu--style-none">
                         <div class="menu"><ul id="primary-menu" class="menu-primary"><li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1033"><a href="/">HOME</a></li>
-                                <li id="menu-item-1026" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-613 current_page_item menu-item-1026"><a href="index.html" aria-current="page">ABOUT</a></li>
-                                <li id="menu-item-1025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="/servicesindex.html">SERVICES</a></li>
+                                <li id="menu-item-1026" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-613 current_page_item menu-item-1026"><a href="/" aria-current="page">ABOUT</a></li>
+                                <li id="menu-item-1025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="/services">SERVICES</a></li>
                                 <li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="/contact">CONTACT</a></li>
                                 <li class="menu-item tg-menu-item tg-menu-item-search"><a href="#"  ><i class="tg-icon tg-icon-search"></i></a><form role="search" method="get" class="search-form" action="/home/">
                                         <label>
@@ -168,8 +162,8 @@
                     >
 
                         <div class="menu-main-menu-container"><ul id="mobile-primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1033"><a href="/">HOME</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-613 current_page_item menu-item-1026"><a href="index.html" aria-current="page">ABOUT</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="/servicesindex.html">SERVICES</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-613 current_page_item menu-item-1026"><a href="/" aria-current="page">ABOUT</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a href="/services">SERVICES</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="/contact">CONTACT</a></li>
                                 <li class="menu-item tg-menu-item tg-menu-item-search"><a href="#"  ><i class="tg-icon tg-icon-search"></i></a><form role="search" method="get" class="search-form" action="/home/">
                                         <label>

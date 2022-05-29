@@ -61,7 +61,6 @@
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
     <script type='text/javascript' src='/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minedb1.js?ver=3.4.4' id='font-awesome-4-shim-js'></script>
-    <link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/544.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.0" />
     <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedb8b6.json?url=https%3A%2F%2Faeropartsconsult.com%2Fhome%2Fsingle-project%2F" />
@@ -164,7 +163,7 @@
 
                         <div class="menu-main-menu-container"><ul id="mobile-primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1033"><a href="/">HOME</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="/about">ABOUT</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-544 current_page_item menu-item-1025"><a href="index.html" aria-current="page">SERVICES</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-544 current_page_item menu-item-1025"><a href="/services" aria-current="page">SERVICES</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="/contact">CONTACT</a></li>
                                 <li class="menu-item tg-menu-item tg-menu-item-search"><a href="#"  ><i class="tg-icon tg-icon-search"></i></a><form role="search" method="get" class="search-form" action="/home/">
                                         <label>
